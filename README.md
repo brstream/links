@@ -8,3 +8,4 @@
 - [www.acmuller.net/yogacara/thinkers/xuanzang-bio-uni.htm](http://www.acmuller.net/yogacara/thinkers/xuanzang-bio-uni.htm) 
 - [EPUB / PDF / MOBI 電子書下載 | CBETA 中華電子佛典協會](http://www.cbeta.org/download/ebook.php) 
 - [GRETIL - Göttingen Register of Electronic Texts in Indian Language](http://gretil.sub.uni-goettingen.de/gret_utf.htm#Sanskrit) 
+- [A practical Sanskrit dictionary with transliteration, accentuation, and etymological analysis throughout](http://dsal.uchicago.edu/dictionaries/macdonell/) 
