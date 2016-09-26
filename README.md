@@ -6,3 +6,4 @@
 - [The List of English TRIPIṬAKA Publications | Society for the Promotion of Buddhism](http://www.bdk.or.jp/english/english_tripitaka/the_list.html#list001) 
 - [Sanskrit Dictionary](http://www.sanskritdictionary.com/) 
 - [www.acmuller.net/yogacara/thinkers/xuanzang-bio-uni.htm](http://www.acmuller.net/yogacara/thinkers/xuanzang-bio-uni.htm) 
+- [EPUB / PDF / MOBI 電子書下載 | CBETA 中華電子佛典協會](http://www.cbeta.org/download/ebook.php) 
