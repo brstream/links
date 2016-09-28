@@ -13,3 +13,4 @@
 ### September 28, 2016
 - [Digital Sanskrit Buddhist Canon - Home](http://dsbcproject.org/) 
 - [INDOLOGY: Resources for Indological Scholarship](http://www.indology.info/) 
+- [Indica et Buddhica Lexica: Sanskrit, Tibetan and English](http://lexica.indica-et-buddhica.org/dict/lexica) 
