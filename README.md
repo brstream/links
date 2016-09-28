@@ -12,3 +12,4 @@
 
 ### September 28, 2016
 - [Digital Sanskrit Buddhist Canon - Home](http://dsbcproject.org/) 
+- [INDOLOGY: Resources for Indological Scholarship](http://www.indology.info/) 
