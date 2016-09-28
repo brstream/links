@@ -15,3 +15,4 @@
 - [INDOLOGY: Resources for Indological Scholarship](http://www.indology.info/) 
 - [Indica et Buddhica Lexica: Sanskrit, Tibetan and English](http://lexica.indica-et-buddhica.org/dict/lexica) 
 - [Indica et Buddhica Publishers | Materials for Indology and Buddhology | Find books, journals and articles ...](http://indica-et-buddhica.org/) 
+- [Bibliotheca Polyglotta](https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2) 
