@@ -17,3 +17,6 @@
 - [Indica et Buddhica Publishers | Materials for Indology and Buddhology | Find books, journals and articles ...](http://indica-et-buddhica.org/) 
 - [Bibliotheca Polyglotta](https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2) 
 - [SAT DB](http://21dzk.l.u-tokyo.ac.jp/SAT/satdb2015.php?lang=en) 
+
+### October 18, 2016
+- [The Intercept](https://theintercept.com/) 
