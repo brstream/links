@@ -20,3 +20,6 @@
 
 ### October 18, 2016
 - [The Intercept](https://theintercept.com/) 
+
+### October 19, 2016
+- [FAQ](http://virtualforest.io/faq.html) 
