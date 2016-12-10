@@ -27,3 +27,6 @@
 ### December 5, 2016
 - [Guide To Buddhism A To Z](http://www.buddhisma2z.com/content.php?id=482) 
 - [Guide To Buddhism A To Z](http://www.buddhisma2z.com/content.php?id=482) 
+
+### December 10, 2016
+- [The Inner Ring, by C.S. Lewis: C.S. Lewis Society of California](http://www.lewissociety.org/innerring.php) 
