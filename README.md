@@ -30,3 +30,6 @@
 
 ### December 10, 2016
 - [The Inner Ring, by C.S. Lewis: C.S. Lewis Society of California](http://www.lewissociety.org/innerring.php) 
+
+### December 11, 2016
+- [Why Running Helps Clear Your Mind -- Science of Us](http://nymag.com/scienceofus/2016/04/how-neuroscientists-explain-the-mind-clearing-magic-of-running.html) 
