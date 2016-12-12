@@ -33,3 +33,6 @@
 
 ### December 11, 2016
 - [Why Running Helps Clear Your Mind -- Science of Us](http://nymag.com/scienceofus/2016/04/how-neuroscientists-explain-the-mind-clearing-magic-of-running.html) 
+
+### December 12, 2016
+- [Vimwiki by vimwiki](http://vimwiki.github.io/) 
