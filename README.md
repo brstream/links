@@ -37,3 +37,6 @@
 ### December 12, 2016
 - [Vimwiki by vimwiki](http://vimwiki.github.io/) 
 - [Spaced repetition - Gwern.net](https://www.gwern.net/Spaced%20repetition) 
+
+### December 13, 2016
+- [Why Kakoune — The quest for a better code editor](http://kakoune.org/why-kakoune/why-kakoune.html) 
