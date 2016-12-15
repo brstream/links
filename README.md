@@ -44,3 +44,4 @@
 ### December 15, 2016
 - [Compiler Explorer](http://godbolt.org/) 
 - [Starting a real business](https://stripe.com/blog/atlas-guide) 
+- [Running as the Thinking Person’s Sport - The New York Times](http://www.nytimes.com/2016/12/14/well/move/running-as-the-thinking-persons-sport.html?_r=0) 
