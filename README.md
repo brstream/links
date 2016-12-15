@@ -46,3 +46,4 @@
 - [Starting a real business](https://stripe.com/blog/atlas-guide) 
 - [Running as the Thinking Person’s Sport - The New York Times](http://www.nytimes.com/2016/12/14/well/move/running-as-the-thinking-persons-sport.html?_r=0) 
 - [Home - NASA Scientific Visualization Studio](http://svs.gsfc.nasa.gov/index.html) 
+- [How To Run a Meeting](https://hbr.org/1976/03/how-to-run-a-meeting) 
