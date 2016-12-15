@@ -40,3 +40,6 @@
 
 ### December 13, 2016
 - [Why Kakoune — The quest for a better code editor](http://kakoune.org/why-kakoune/why-kakoune.html) 
+
+### December 15, 2016
+- [Compiler Explorer](http://godbolt.org/) 
