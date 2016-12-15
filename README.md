@@ -43,3 +43,4 @@
 
 ### December 15, 2016
 - [Compiler Explorer](http://godbolt.org/) 
+- [Starting a real business](https://stripe.com/blog/atlas-guide) 
