@@ -22,7 +22,7 @@
 - [The Intercept](https://theintercept.com/) 
 
 ### October 19, 2016
-- [FAQ](http://virtualforest.io/faq.html) 
+- [FAQ for the Virtual Forest](http://virtualforest.io/faq.html) 
 
 ### December 5, 2016
 - [Guide To Buddhism A To Z](http://www.buddhisma2z.com/content.php?id=482) 
