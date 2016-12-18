@@ -50,3 +50,4 @@
 
 ### December 18, 2016
 - [Frequent sauna bathing protects men against dementia – Science Bulletin](http://sciencebulletin.org/archives/8286.html) 
+- [Free Cash in Finland. Must Be Jobless. - NYTimes.com](http://mobile.nytimes.com/2016/12/17/business/economy/universal-basic-income-finland.html?_r=0&referer=) 
