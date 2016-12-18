@@ -26,7 +26,6 @@
 
 ### December 5, 2016
 - [Guide To Buddhism A To Z](http://www.buddhisma2z.com/content.php?id=482) 
-- [Guide To Buddhism A To Z](http://www.buddhisma2z.com/content.php?id=482) 
 
 ### December 10, 2016
 - [The Inner Ring, by C.S. Lewis: C.S. Lewis Society of California](http://www.lewissociety.org/innerring.php) 
@@ -50,6 +49,5 @@
 
 ### December 18, 2016
 - [Frequent sauna bathing protects men against dementia – Science Bulletin](http://sciencebulletin.org/archives/8286.html) 
-- [Free Cash in Finland. Must Be Jobless. - NYTimes.com](http://mobile.nytimes.com/2016/12/17/business/economy/universal-basic-income-finland.html?_r=0&referer=) 
-- [Free Cash in Finland. Must Be Jobless. - NYTimes.com](http://mobile.nytimes.com/2016/12/17/business/economy/universal-basic-income-finland.html?_r=0&referer=) 
+- [Free Cash in Finland. Must Be Jobless. - NYTimes.com](http://mobile.nytimes.com/2016/12/17/business/economy/universal-basic-income-finland.html?_r=0&referer=)  
 - [The Low Prices and Green Outlook of Germany's Locomore Train - CityLab](http://www.citylab.com/commute/2016/12/locomore-germany-crowdfunded-train/510752/) 
