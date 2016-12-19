@@ -52,3 +52,6 @@
 - [Free Cash in Finland. Must Be Jobless. - NYTimes.com](http://mobile.nytimes.com/2016/12/17/business/economy/universal-basic-income-finland.html?_r=0&referer=)  
 - [The Low Prices and Green Outlook of Germany's Locomore Train - CityLab](http://www.citylab.com/commute/2016/12/locomore-germany-crowdfunded-train/510752/) 
 - [Three minutes with Hans Rosling will change your mind about the world : Nature News & Comment](http://www.nature.com/news/three-minutes-with-hans-rosling-will-change-your-mind-about-the-world-1.21143) 
+
+### December 19, 2016
+- [Read The Tao of tmux | Leanpub](https://leanpub.com/the-tao-of-tmux/read) 
