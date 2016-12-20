@@ -55,3 +55,6 @@
 
 ### December 19, 2016
 - [Read The Tao of tmux | Leanpub](https://leanpub.com/the-tao-of-tmux/read) 
+
+### December 20, 2016
+- [whatthebuddhareallytaught - santipada](https://sites.google.com/site/santipada/whatthebuddhareallytaught) 
