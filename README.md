@@ -63,3 +63,4 @@
 
 ### December 25, 2016
 - [Code Valley: Emergent coding](https://codevalley.com/) 
+- [Hòa Thượng Thích Nhất Hạnh viến thăm TL Phụng Hoàng - YouTube](https://www.youtube.com/watch?v=n_zInBCZdbE) 
