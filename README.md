@@ -60,3 +60,6 @@
 - [whatthebuddhareallytaught - santipada](https://sites.google.com/site/santipada/whatthebuddhareallytaught) 
 - [Research on the Dirgha-agama: Dhammadinna: 9789575986575: Amazon.com: Books](https://www.amazon.com/Research-Dirgha-agama-Dhammadinna/dp/9575986571/ref=sr_1_1?ie=UTF8&qid=1482251152&sr=8-1&keywords=9789575986575) 
 - [publications – Āgama research group](http://agamaresearch.ddbc.edu.tw/publications) 
+
+### December 25, 2016
+- [Code Valley: Emergent coding](https://codevalley.com/) 
