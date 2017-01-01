@@ -67,3 +67,6 @@
 
 ### December 26, 2016
 - [Find Two Words Near Each Other](http://www.regular-expressions.info/near.html) 
+
+### January 1, 2017
+- [NumberSpiral.com - Home](http://www.numberspiral.com/index.html) 
