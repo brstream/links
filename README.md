@@ -73,3 +73,4 @@
 
 ### January 6, 2017
 - [Map of One Day Hike: Georgetown (DC) to Harpers Ferry, WV](https://www.google.com/maps/d/viewer?mid=1J4O4y8rE3L_i0vaN_Q7ODPAGHpA&hl=en_US&ll=39.1155137274494%2C-77.40396250000003&z=10) 
+- [Appalachian Trail](https://www.google.com/maps/d/viewer?mid=19gyBcl5Bojy46NbdBg26RBmudco&hl=en&ll=40.59879716737648%2C-75.89419370590213&z=8) 
