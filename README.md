@@ -81,3 +81,4 @@
 - [Git Koans / Steve Losh](http://stevelosh.com/blog/2013/04/git-koans/) 
 - [pplapi - Home](http://pplapi.com/) 
 - [Vim Koans | Arabesque](https://sanctum.geek.nz/arabesque/vim-koans/) 
+- [Why I switched from OS X to Linux; Freedom, Community, Pride, Diversity - jeena.net](https://jeena.net/why-i-switchedfrom-osx-to-linux) 
