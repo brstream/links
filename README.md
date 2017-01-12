@@ -76,3 +76,6 @@
 - [Appalachian Trail](https://www.google.com/maps/d/viewer?mid=19gyBcl5Bojy46NbdBg26RBmudco&hl=en&ll=40.59879716737648%2C-75.89419370590213&z=8) 
 - [Appalachian Trail Distance Calculator](http://www.atdist.com/) 
 - [TopoFusion.com | GPS Mapping Software for Windows](http://topofusion.com/at-gps.php) 
+
+### January 12, 2017
+- [Git Koans / Steve Losh](http://stevelosh.com/blog/2013/04/git-koans/) 
