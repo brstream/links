@@ -86,3 +86,4 @@
 ### January 14, 2017
 - [Study finds association between eating hot peppers and decreased mortality – Science Bulletin](http://sciencebulletin.org/archives/9287.html) 
 - [Study finds association between eating hot peppers and decreased mortality – Science Bulletin](http://sciencebulletin.org/archives/9287.html) 
+- [Five big mysteries about CRISPR’s origins : Nature News & Comment](http://www.nature.com/news/five-big-mysteries-about-crispr-s-origins-1.21294) 
