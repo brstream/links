@@ -82,3 +82,6 @@
 - [pplapi - Home](http://pplapi.com/) 
 - [Vim Koans | Arabesque](https://sanctum.geek.nz/arabesque/vim-koans/) 
 - [Why I switched from OS X to Linux; Freedom, Community, Pride, Diversity - jeena.net](https://jeena.net/why-i-switchedfrom-osx-to-linux) 
+
+### January 14, 2017
+- [Study finds association between eating hot peppers and decreased mortality – Science Bulletin](http://sciencebulletin.org/archives/9287.html) 
