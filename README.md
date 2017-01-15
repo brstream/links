@@ -92,3 +92,6 @@
 ### January 15, 2017
 - [eLucy](https://elucy.org/) 
 - [Vimperator - vimperator labs](http://www.vimperator.org/vimperator) 
+
+### January 16, 2017
+- [Mastering Bash and Terminal | blockloop.io](https://www.blockloop.io/mastering-bash-and-terminal) 
