@@ -95,3 +95,4 @@
 
 ### January 16, 2017
 - [Mastering Bash and Terminal | blockloop.io](https://www.blockloop.io/mastering-bash-and-terminal) 
+- [We Used To Have 6 More Letters In Our Alphabet](https://omgfacts.com/we-used-to-have-6-more-letters-in-our-alphabet-a7e1a165853d#.kd8axu6ot) 
