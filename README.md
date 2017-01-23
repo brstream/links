@@ -103,3 +103,6 @@
 
 ### January 22, 2017
 - [Gitea](https://gitea.io/en-US/) 
+
+### January 23, 2017
+- ["The Miracle of Mindfulness": Be Present In All That You Do | Jim Kim | Pulse | LinkedIn](https://www.linkedin.com/pulse/20131122215634-32702694-inspiration-from-the-miracle-of-mindfulness) 
