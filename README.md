@@ -106,3 +106,6 @@
 
 ### January 23, 2017
 - ["The Miracle of Mindfulness": Be Present In All That You Do | Jim Kim | Pulse | LinkedIn](https://www.linkedin.com/pulse/20131122215634-32702694-inspiration-from-the-miracle-of-mindfulness) 
+
+### January 24, 2017
+- [BBC - Earth - How insects like bumblebees do so much with tiny brains](http://www.bbc.com/earth/story/20170123-how-insects-like-bumblebees-do-so-much-with-tiny-brains) 
