@@ -113,3 +113,6 @@
 
 ### February 3, 2017
 - [Why Real Time Feedback is a Terrible Idea for Your Company](https://getlighthouse.com/blog/real-time-feedback-bad-idea/) 
+
+### February 4, 2017
+- [Center for Health and Happiness established at Harvard | Harvard Magazine](http://harvardmagazine.com/2016/11/can-happiness-make-you-healthier) 
