@@ -121,3 +121,4 @@
 - [Leading neuroscientists and Buddhists agree: “Consciousness is everywhere" - Lion's Roar](https://www.lionsroar.com/christof-koch-unites-buddhist-neuroscience-universal-nature-mind/?utm_content=bufferd34a1&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) 
 - [Thiền Sư Thích Nhất Hạnh « vietebookz](https://vietebookz.wordpress.com/category/thien-su-thich-nhat-hanh/) 
 - [Thiền Sư Thích Nhất Hạnh « vietebookz](https://vietebookz.wordpress.com/category/thien-su-thich-nhat-hanh/) 
+- [Daniel Allen Deutsch](http://danielallendeutsch.com/blog/16-using-tmux-properly.html) 
