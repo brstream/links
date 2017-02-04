@@ -117,3 +117,4 @@
 ### February 4, 2017
 - [Center for Health and Happiness established at Harvard | Harvard Magazine](http://harvardmagazine.com/2016/11/can-happiness-make-you-healthier) 
 - [SWITZERLAND SECOND (official) #everysecondcounts #srf #deville - YouTube](https://www.youtube.com/watch?v=reuJ8yVCgSM) 
+- [And If He Sees His Shadow -- Perry Garfinkle – Lion's Roar](https://www.lionsroar.com/harold-ramis-profile-by-perry-garfinkel/?utm_content=bufferde5d0&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) 
