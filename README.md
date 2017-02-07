@@ -128,3 +128,6 @@
 - [Where has my disk space gone? Flame graphs for file systems](http://www.brendangregg.com/blog/2017-02-05/file-system-flame-graph.html) 
 - [Teachings for Uncertain Times: America's Racial Karma - Tricycle](https://tricycle.org/trikedaily/larry-ward/) 
 - [How Do I Get My Movie On iTunes](http://www.filmmakingstuff.com/sell-your-movie-on-itunes/) 
+
+### February 7, 2017
+- [On Trump, Keep it Simple (In 5 Points)](http://talkingpointsmemo.com/edblog/on-trump-keep-it-simple-in-5-points) 
