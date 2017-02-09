@@ -131,3 +131,6 @@
 
 ### February 7, 2017
 - [On Trump, Keep it Simple (In 5 Points)](http://talkingpointsmemo.com/edblog/on-trump-keep-it-simple-in-5-points) 
+
+### February 9, 2017
+- [RegExr: Learn, Build, & Test RegEx](http://regexr.com/) 
