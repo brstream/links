@@ -137,3 +137,6 @@
 
 ### February 10, 2017
 - [The Best Laser Printer | The Wirecutter](http://thewirecutter.com/reviews/best-laser-printer/#a-color-allinone-for-home-offices) 
+
+### February 12, 2017
+- [Notes from November 28 meetup of Bay Area Tech Solidarity](https://techsolidarity.org/resources/basic_security.htm) 
