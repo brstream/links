@@ -142,3 +142,6 @@
 - [Notes from November 28 meetup of Bay Area Tech Solidarity](https://techsolidarity.org/resources/basic_security.htm) 
 - [Central Intelligence Agency’s albums | Flickr](https://www.flickr.com/photos/ciagov/albums) 
 - [Structured Procrastination: Do Less & Deceive Yourself](http://web.archive.org/web/20160227122619/http://www.structuredprocrastination.com/) 
+
+### February 13, 2017
+- [Choosing to Lose: Wendell Berry's Sustainable Activism — Upwrite Magazine](http://www.upwritemagazine.com/home/2017/2/6/choosing-to-lose) 
