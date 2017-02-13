@@ -145,3 +145,4 @@
 
 ### February 13, 2017
 - [Choosing to Lose: Wendell Berry's Sustainable Activism — Upwrite Magazine](http://www.upwritemagazine.com/home/2017/2/6/choosing-to-lose) 
+- [look-and-see-a-portrait-of-wendell-berry | Sundance Institute](https://www.sundance.org/projects/look-and-see-a-portrait-of-wendell-berry) 
