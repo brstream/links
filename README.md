@@ -152,3 +152,4 @@
 
 ### February 15, 2017
 - [Live slow, die old: Mounting evidence for caloric restriction in humans - Geroscience](http://geroscience.com/caloric-restriction/) 
+- [Iron Age Potters Carefully Recorded Earth's Magnetic Field — By Accident : The Two-Way : NPR](http://www.npr.org/sections/thetwo-way/2017/02/14/515032512/iron-age-potters-carefully-recorded-earths-magnetic-field-by-accident) 
