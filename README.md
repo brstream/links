@@ -162,3 +162,4 @@
 ### February 17, 2017
 - [Google Spreadsheets and Python – Twilio Cloud Communications Blog](https://www.twilio.com/blog/2017/02/an-easy-way-to-read-and-write-to-a-google-spreadsheet-in-python.html) 
 - [Map showing the homeland of every character in Homer’s Iliad](http://kottke.org/17/02/map-showing-the-homeland-of-every-character-in-homers-iliad) 
+- [herrbischoff/awesome-osx-command-line: Use your OS X terminal shell to do awesome things.](https://github.com/herrbischoff/awesome-osx-command-line) 
