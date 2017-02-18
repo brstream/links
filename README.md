@@ -164,3 +164,6 @@
 - [Map showing the homeland of every character in Homer’s Iliad](http://kottke.org/17/02/map-showing-the-homeland-of-every-character-in-homers-iliad) 
 - [herrbischoff/awesome-osx-command-line: Use your OS X terminal shell to do awesome things.](https://github.com/herrbischoff/awesome-osx-command-line) 
 - [How did Europe become the richest part of the world? | Aeon Essays](https://aeon.co/essays/how-did-europe-become-the-richest-part-of-the-world) 
+
+### February 18, 2017
+- [Humans Never Stopped Evolving | The Scientist Magazine®](http://www.the-scientist.com/?articles.view/articleNo/46651/title/Humans-Never-Stopped-Evolving/) 
