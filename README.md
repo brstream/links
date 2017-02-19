@@ -170,3 +170,6 @@
 - [Structured Sutras](http://mgrf.de/structuredSutras/) 
 - [A Handful of Leaves - Library](http://www.ahandfulofleaves.org/Library.html) 
 - [Learn language in context - Clozemaster](https://www.clozemaster.com/dashboard) 
+
+### February 19, 2017
+- [Co-founder conflict | TechCrunch](https://techcrunch.com/2017/02/18/co-founder-conflict/) 
