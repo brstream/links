@@ -174,3 +174,4 @@
 ### February 19, 2017
 - [Co-founder conflict | TechCrunch](https://techcrunch.com/2017/02/18/co-founder-conflict/) 
 - [How Norway Avoided Becoming a Fascist State by George Lakey — YES! Magazine](http://www.yesmagazine.org/issues/science/how-norway-avoided-becoming-a-fascist-state-20170216) 
+- [I ate 40 teaspoons of sugar a day. This is what happened - Telegraph](http://www.telegraph.co.uk/foodanddrink/healthyeating/11691125/I-ate-40-teaspoons-of-sugar-a-day.-This-is-what-happened.html) 
