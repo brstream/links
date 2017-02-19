@@ -173,3 +173,4 @@
 
 ### February 19, 2017
 - [Co-founder conflict | TechCrunch](https://techcrunch.com/2017/02/18/co-founder-conflict/) 
+- [How Norway Avoided Becoming a Fascist State by George Lakey — YES! Magazine](http://www.yesmagazine.org/issues/science/how-norway-avoided-becoming-a-fascist-state-20170216) 
