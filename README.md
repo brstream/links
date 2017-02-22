@@ -176,3 +176,6 @@
 - [How Norway Avoided Becoming a Fascist State by George Lakey — YES! Magazine](http://www.yesmagazine.org/issues/science/how-norway-avoided-becoming-a-fascist-state-20170216) 
 - [I ate 40 teaspoons of sugar a day. This is what happened - Telegraph](http://www.telegraph.co.uk/foodanddrink/healthyeating/11691125/I-ate-40-teaspoons-of-sugar-a-day.-This-is-what-happened.html) 
 - [Sleep - How Much Sleep Do We Need? - Sleep Debt and Sleep Deprivation](http://www.howsleepworks.com/need_debt.html) 
+
+### February 22, 2017
+- [The Strange & Curious Tale of the Last True Hermit | GQ](http://www.gq.com/story/the-last-true-hermit) 
