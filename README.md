@@ -179,3 +179,6 @@
 
 ### February 22, 2017
 - [The Strange & Curious Tale of the Last True Hermit | GQ](http://www.gq.com/story/the-last-true-hermit) 
+
+### March 3, 2017
+- [Lithium-Ion Battery Inventor Introduces New Technology for Fast-Charging, Noncombustible Batteries | UT News | The University of Texas at Austin](https://news.utexas.edu/2017/02/28/goodenough-introduces-new-battery-technology) 
