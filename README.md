@@ -198,3 +198,6 @@
 - [The Toxins That Threaten Our Brains - The Atlantic](https://www.theatlantic.com/health/archive/2014/03/the-toxins-that-threaten-our-brains/284466/) 
 - [Amy Goodman - Wikipedia](https://en.wikipedia.org/wiki/Amy_Goodman) 
 - [French Secularism: an introduction | Le Club de Mediapart](https://blogs.mediapart.fr/melextra-jet/blog/060217/french-secularism-introduction?utm_source=20170305&utm_medium=email&utm_campaign=ENGLISH&utm_content=&utm_term=&xts=&xtor=EREC-83-%5BENGLISH%5D-20170305&xtloc=&url=) 
+
+### March 6, 2017
+- [Scott Stokoe: Uncovering an “Applied Philosophy” of Sustainability and Environmental Stewardship | The Dartmouth Sustainability Project](http://sustainability.dartmouth.edu/blog/a-journey-with-scott-stokoe-uncovering-an-applied-philosophy-of-sustainabil) 
