@@ -196,3 +196,4 @@
 - [How ‘Anyon’ Particles Emerge From Quantum Knots | Quanta Magazine](https://www.quantamagazine.org/20170228-anyons-a-new-kind-of-quantum-particle/) 
 - [George Saunders: what writers really do when they write | Books | The Guardian](https://www.theguardian.com/books/2017/mar/04/what-writers-really-do-when-they-write?CMP=share_btn_fb) 
 - [The Toxins That Threaten Our Brains - The Atlantic](https://www.theatlantic.com/health/archive/2014/03/the-toxins-that-threaten-our-brains/284466/) 
+- [Amy Goodman - Wikipedia](https://en.wikipedia.org/wiki/Amy_Goodman) 
