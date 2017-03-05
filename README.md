@@ -187,3 +187,6 @@
 ### March 4, 2017
 - [Operation Delirium - The New Yorker](http://www.newyorker.com/magazine/2012/12/17/operation-delirium) 
 - [Buried Alive: Stories From Inside Solitary Confinement | GQ](http://www.gq.com/story/buried-alive-solitary-confinement) 
+
+### March 5, 2017
+- [Why I sleep in a fortress in the woods - BBC News](http://www.bbc.com/news/magazine-39117535?SThisFB) 
