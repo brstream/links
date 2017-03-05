@@ -193,3 +193,4 @@
 - [How the Brain Dumps Its Trash [Video] - Scientific American](https://www.scientificamerican.com/article/nedergaard-how-the-brain-dumps-its-trash-video/) 
 - [Teenager's sickle cell reversed with world-first therapy - BBC News](http://www.bbc.com/news/health-39142971) 
 - [Ideal Numbers Seek Their Lost Primes | Quanta Magazine](https://www.quantamagazine.org/20170302-class-numbers-and-the-symmetries-of-groups/) 
+- [How ‘Anyon’ Particles Emerge From Quantum Knots | Quanta Magazine](https://www.quantamagazine.org/20170228-anyons-a-new-kind-of-quantum-particle/) 
