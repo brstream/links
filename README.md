@@ -206,3 +206,4 @@
 - [London’s Big Dig Reveals Amazing Layers of History](http://www.nationalgeographic.com/magazine/2016/02/artifacts-found-under-london-archaeology/) 
 - [Pleistocene Park - The Atlantic](https://www.theatlantic.com/magazine/archive/2017/04/pleistocene-park/517779/) 
 - [HN news sources by *number of submissions* (reposts summed up) - Google Sheets](https://docs.google.com/spreadsheets/d/1mmfbNWaX0Nr1P65VmwZpm4WiceK7pepknSob4ti0M7s/edit#gid=1653129809) 
+- [The woman championing children’s rights](http://www.irishtimes.com/life-and-style/health-family/the-woman-championing-children-s-rights-1.2995455) 
