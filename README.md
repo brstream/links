@@ -201,3 +201,6 @@
 
 ### March 6, 2017
 - [Scott Stokoe: Uncovering an “Applied Philosophy” of Sustainability and Environmental Stewardship | The Dartmouth Sustainability Project](http://sustainability.dartmouth.edu/blog/a-journey-with-scott-stokoe-uncovering-an-applied-philosophy-of-sustainabil) 
+
+### March 14, 2017
+- [London’s Big Dig Reveals Amazing Layers of History](http://www.nationalgeographic.com/magazine/2016/02/artifacts-found-under-london-archaeology/) 
