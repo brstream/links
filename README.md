@@ -210,3 +210,4 @@
 
 ### March 15, 2017
 - [Title Capitalization: Your Online Title Case Tool](http://titlecapitalization.com/) 
+- [You Should Be Logging Shell History](http://www.jefftk.com/p/you-should-be-logging-shell-history) 
