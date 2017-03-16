@@ -211,3 +211,6 @@
 ### March 15, 2017
 - [Title Capitalization: Your Online Title Case Tool](http://titlecapitalization.com/) 
 - [You Should Be Logging Shell History](http://www.jefftk.com/p/you-should-be-logging-shell-history) 
+
+### March 16, 2017
+- [Reverse Culture Shock - The Challenges of Returning Home: Reverse Culture Shock](https://www.state.gov/m/fsi/tc/c56075.htm) 
