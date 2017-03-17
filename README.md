@@ -218,3 +218,4 @@
 
 ### March 17, 2017
 - [Escape to another world | 1843](https://www.1843magazine.com/features/escape-to-another-world) 
+- [Lawrence Krauss’ Brief History of the GUT](http://nautil.us/issue/46/balance/a-brief-history-of-the-grand-unified-theory-of-physics) 
