@@ -220,3 +220,4 @@
 - [Escape to another world | 1843](https://www.1843magazine.com/features/escape-to-another-world) 
 - [Lawrence Krauss’ Brief History of the GUT](http://nautil.us/issue/46/balance/a-brief-history-of-the-grand-unified-theory-of-physics) 
 - [It wasn't just Greece: Archaeologists find early democratic societies in the Americas | Science | AAAS](http://www.sciencemag.org/news/2017/03/it-wasnt-just-greece-archaeologists-find-early-democratic-societies-americas) 
+- [Shedding light on solar potential in all 50 U.S. States](https://blog.google/products/maps/shedding-light-solar-potential-all-50-us-states/) 
