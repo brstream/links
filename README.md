@@ -229,3 +229,4 @@
 - [Hydraulic Ram Pump - All](https://www.instructables.com/id/Hydraulic-Ram-Pump/) 
 - [This Water Pump Is Propelled By The Water It Pumps - Hobby Farms](http://www.hobbyfarms.com/this-water-pump-is-propelled-by-the-water-it-pumps/) 
 - [Harness Spring Water By Building A Catchment Or Spring Box](http://www.survivallandusa.com/How-To-Build-A-Spring-Water-Catchment.html) 
+- [How a Water Bear Survives, Even When It’s Dry - The New York Times](https://www.nytimes.com/2017/03/16/science/tardigrades-water-bears-dried-out.html?_r=0) 
