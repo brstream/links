@@ -233,3 +233,4 @@
 
 ### March 20, 2017
 - [A hot bath has benefits similar to exercise](http://theconversation.com/a-hot-bath-has-benefits-similar-to-exercise-74600) 
+- [Google ignites Python library for command lines | CIO](http://www.cio.com/article/3177935/application-development/google-ignites-python-library-for-command-lines.html) 
