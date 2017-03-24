@@ -245,3 +245,4 @@
 - [Gravity Fed Water Systems, by J.S. – SurvivalBlog.com](https://survivalblog.com/gravity-fed-water-systems-by-j-s/) 
 - [No, Evolution Is Not Always Dog-Eat-Dog](http://nautil.us/issue/46/balance/survival-of-the-friendliest) 
 - [William James](https://www.uky.edu/~eushe2/Pajares/james.html#octopus) 
+- [Context – simple rich-text ephemeral pastes](https://ctxt.io/) 
