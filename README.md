@@ -246,3 +246,4 @@
 - [No, Evolution Is Not Always Dog-Eat-Dog](http://nautil.us/issue/46/balance/survival-of-the-friendliest) 
 - [William James](https://www.uky.edu/~eushe2/Pajares/james.html#octopus) 
 - [Context – simple rich-text ephemeral pastes](https://ctxt.io/) 
+- [Dinosaur Images & Facts - The Online Database](http://dinosaurpictures.org/) 
