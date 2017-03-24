@@ -237,3 +237,6 @@
 
 ### March 22, 2017
 - [Interprétation des résultats (bactériologie) | Laboratoire BSL](http://www.labobsl.com/informations-utiles/interpretation-des-resultats-bacteriologie) 
+
+### March 24, 2017
+- [Access to nature reduces depression and obesity, finds European study | Society | The Guardian](https://www.theguardian.com/society/2017/mar/21/access-nature-reduces-depression-obesity-european-report) 
