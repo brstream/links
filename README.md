@@ -247,3 +247,4 @@
 - [William James](https://www.uky.edu/~eushe2/Pajares/james.html#octopus) 
 - [Context – simple rich-text ephemeral pastes](https://ctxt.io/) 
 - [Dinosaur Images & Facts - The Online Database](http://dinosaurpictures.org/) 
+- [Ancient Earth globe](http://dinosaurpictures.org/ancient-earth/#600) 
