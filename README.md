@@ -252,3 +252,4 @@
 ### March 25, 2017
 - [London Review of Books · 30 March 2017](https://www.lrb.co.uk/) 
 - [Why Capitalism Creates Pointless Jobs - Evonomics](http://evonomics.com/why-capitalism-creates-pointless-jobs-david-graeber/) 
+- [Get Started with Beacons  |  Beacons  |  Google Developers](https://developers.google.com/beacons/get-started) 
