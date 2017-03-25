@@ -248,3 +248,6 @@
 - [Context – simple rich-text ephemeral pastes](https://ctxt.io/) 
 - [Dinosaur Images & Facts - The Online Database](http://dinosaurpictures.org/) 
 - [Ancient Earth globe](http://dinosaurpictures.org/ancient-earth/#600) 
+
+### March 25, 2017
+- [London Review of Books · 30 March 2017](https://www.lrb.co.uk/) 
