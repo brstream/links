@@ -257,3 +257,4 @@
 
 ### March 26, 2017
 - [Spacemacs: Emacs advanced Kit focused on Evil](http://spacemacs.org/) 
+- [space-vim - An Elegant Vim Distribution Inspired by Spacemacs](http://vim.liuchengxu.org/) 
