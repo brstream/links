@@ -264,3 +264,4 @@
 - [BBC - Earth - The abominable mystery: How flowers conquered the world](http://www.bbc.com/earth/story/20141017-how-flowers-conquered-the-world) 
 - [luanfujun/deep-photo-styletransfer: Code and data for paper "Deep Photo Style Transfer": https://arxiv.org/abs/1703.07511](https://github.com/luanfujun/deep-photo-styletransfer) 
 - [The Octalyzer - An Apple IIe Emulator for Fun and Education](http://octalyzer.com/downloads/) 
+- [10-minute-vim-exercises/book_sample_ctrln.md at master · steveshogren/10-minute-vim-exercises](https://github.com/steveshogren/10-minute-vim-exercises/blob/master/book_sample_ctrln.md) 
