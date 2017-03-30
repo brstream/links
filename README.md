@@ -272,3 +272,6 @@
 - [What Gave Some Primates Bigger Brains? A Fruit-Filled Diet : The Salt : NPR](http://www.npr.org/sections/thesalt/2017/03/27/521423216/what-gave-some-primates-bigger-brains-a-fruit-filled-diet) 
 - [Authorea](https://www.authorea.com/product) 
 - [Elon Musk’s Billion-Dollar Crusade to Stop the A.I. Apocalypse | Vanity Fair](http://www.vanityfair.com/news/2017/03/elon-musk-billion-dollar-crusade-to-stop-ai-space-x) 
+
+### March 30, 2017
+- [explainshell.com - match command-line arguments to their help text](http://explainshell.com/) 
