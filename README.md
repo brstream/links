@@ -275,3 +275,4 @@
 
 ### March 30, 2017
 - [explainshell.com - match command-line arguments to their help text](http://explainshell.com/) 
+- [The Genius of Pinheads: When Little Brains Rule​ - Scientific American](https://www.scientificamerican.com/article/the-genius-of-pinheads-when-little-brains-rule/) 
