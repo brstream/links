@@ -276,3 +276,4 @@
 ### March 30, 2017
 - [explainshell.com - match command-line arguments to their help text](http://explainshell.com/) 
 - [The Genius of Pinheads: When Little Brains Rule​ - Scientific American](https://www.scientificamerican.com/article/the-genius-of-pinheads-when-little-brains-rule/) 
+- [Climate Catastrophe Will Hit Tropics Around 2020, Rest Of World Around 2047, Study Says | The Huffington Post](http://www.huffingtonpost.com/eric-zuesse/climate-catastrophe-to-hi_b_4089746.html) 
