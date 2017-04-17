@@ -281,3 +281,6 @@
 ### April 14, 2017
 - [Indigenous myths carry warning signals about natural disasters | Aeon Essays](https://aeon.co/essays/indigenous-myths-carry-warning-signals-about-natural-disasters) 
 - [John Coltrane Draws a Picture Illustrating the Mathematics of Music | Open Culture](http://www.openculture.com/2017/04/the-tone-circle-john-coltrane-drew-to-illustrate-the-theory-behind-his-most-famous-compositions-1967.html) 
+
+### April 17, 2017
+- [The Blood of the Crab](http://www.popularmechanics.com/science/health/a26038/the-blood-of-the-crab/) 
