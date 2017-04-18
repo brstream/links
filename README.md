@@ -285,3 +285,6 @@
 ### April 17, 2017
 - [The Blood of the Crab](http://www.popularmechanics.com/science/health/a26038/the-blood-of-the-crab/) 
 - [[Report] | Snowden’s Box, Jessica Bruder and Dale Maharidge | Harper's Magazine](http://harpers.org/archive/2017/05/snowdens-box/?single=1) 
+
+### April 18, 2017
+- [Practice Communities - Live](https://www.google.com/maps/d/viewer?mid=1Xw3-bgsbKsK47_RT9Rykh_TwdWc&ll=-3.81666561775622e-14%2C-113.96142339999994&z=1) 
