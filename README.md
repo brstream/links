@@ -288,3 +288,4 @@
 
 ### April 18, 2017
 - [Practice Communities - Live](https://www.google.com/maps/d/viewer?mid=1Xw3-bgsbKsK47_RT9Rykh_TwdWc&ll=-3.81666561775622e-14%2C-113.96142339999994&z=1) 
+- [California’s wildflower ‘super bloom’ is so massive you can see it from space - The Washington Post](https://www.washingtonpost.com/news/capital-weather-gang/wp/2017/04/13/californias-wildflower-superbloom-is-so-prolific-you-can-see-it-from-space/?utm_term=.327709fb895d) 
