@@ -296,3 +296,4 @@
 ### April 21, 2017
 - [Shortwhale | Stop drowning in email](http://www.shortwhale.com/?) 
 - [Magin](http://getmagin.com/) 
+- [Filtr - declutter your inbox, declutter your mind on the App Store](https://itunes.apple.com/us/app/filtr-declutter-your-inbox-declutter-your-mind/id1148386771?mt=8) 
