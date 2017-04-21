@@ -292,3 +292,6 @@
 
 ### April 19, 2017
 - [Free Blank Manuscript Paper – Matthew Hindson](http://hindson.com.au/info/free/free-blank-manuscript-paper/) 
+
+### April 21, 2017
+- [Shortwhale | Stop drowning in email](http://www.shortwhale.com/?) 
