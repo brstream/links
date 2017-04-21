@@ -295,3 +295,4 @@
 
 ### April 21, 2017
 - [Shortwhale | Stop drowning in email](http://www.shortwhale.com/?) 
+- [Magin](http://getmagin.com/) 
