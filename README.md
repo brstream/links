@@ -297,3 +297,4 @@
 - [Shortwhale | Stop drowning in email](http://www.shortwhale.com/?) 
 - [Magin](http://getmagin.com/) 
 - [Filtr - declutter your inbox, declutter your mind on the App Store](https://itunes.apple.com/us/app/filtr-declutter-your-inbox-declutter-your-mind/id1148386771?mt=8) 
+- [A Behavioral Economist Tries to Fix Email - The Atlantic](https://www.theatlantic.com/business/archive/2017/03/economist-email-less-painful/518934/?single_page=true) 
