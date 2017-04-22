@@ -303,3 +303,4 @@
 ### April 22, 2017
 - [AnkiMobile Flashcards on the App Store](https://itunes.apple.com/us/app/ankimobile-flashcards/id373493387?mt=8&ign-mpt=uo%3D4) 
 - [Torching the Modern-Day Library of Alexandria - The Atlantic](https://www.theatlantic.com/technology/archive/2017/04/the-tragedy-of-google-books/523320/#?single_page=true) 
+- [Physicists demonstrate new way to violate local causality](https://phys.org/news/2017-04-physicists-violate-local-causality.html) 
