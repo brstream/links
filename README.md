@@ -305,3 +305,6 @@
 - [Torching the Modern-Day Library of Alexandria - The Atlantic](https://www.theatlantic.com/technology/archive/2017/04/the-tragedy-of-google-books/523320/#?single_page=true) 
 - [Physicists demonstrate new way to violate local causality](https://phys.org/news/2017-04-physicists-violate-local-causality.html) 
 - [UK launches 'world first' research programme into negative emissions | Carbon Brief](https://www.carbonbrief.org/uk-launches-world-first-research-programme-into-negative-emissions) 
+
+### April 27, 2017
+- [Fusion reactors: Not what they’re cracked up to be | Bulletin of the Atomic Scientists](http://thebulletin.org/fusion-reactors-not-what-they%E2%80%99re-cracked-be10699) 
