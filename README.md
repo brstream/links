@@ -310,3 +310,6 @@
 - [Fusion reactors: Not what they’re cracked up to be | Bulletin of the Atomic Scientists](http://thebulletin.org/fusion-reactors-not-what-they%E2%80%99re-cracked-be10699) 
 - [The Grim Biology of Being Poor](http://nautil.us/issue/47/consciousness/why-poverty-is-like-a-disease) 
 - [SkySave - Discover the cheapest route to fly for your next holiday](https://skysave.co/) 
+
+### April 28, 2017
+- [Gender and verbs across 100,000 stories: a tidy analysis – Variance Explained](http://varianceexplained.org/r/tidytext-gender-plots/) 
