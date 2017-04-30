@@ -315,3 +315,6 @@
 - [Gender and verbs across 100,000 stories: a tidy analysis – Variance Explained](http://varianceexplained.org/r/tidytext-gender-plots/) 
 - [Basic Type Level Programming in Haskell](http://www.parsonsmatt.org/2017/04/26/basic_type_level_programming_in_haskell.html) 
 - [Markdown Presentations For Everyone on GitHub, GitLab and Bitbucket - GitPitch](https://gitpitch.com/) 
+
+### April 30, 2017
+- [National Park Maps | NPMaps.com - just free maps, period.](http://npmaps.com/) 
