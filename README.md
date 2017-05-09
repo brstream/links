@@ -322,3 +322,6 @@
 ### May 9, 2017
 - [ZEIT – Buy Domains from the CLI](https://zeit.co/blog/buy-domains) 
 - [Get started | Learning Music (Beta)](https://learningmusic.ableton.com/) 
+
+### May 10, 2017
+- [Fermat's Library | Man-computer symbiosis annotated/explained version.](http://fermatslibrary.com/s/man-computer-symbiosis) 
