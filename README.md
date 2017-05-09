@@ -326,3 +326,4 @@
 ### May 10, 2017
 - [Fermat's Library | Man-computer symbiosis annotated/explained version.](http://fermatslibrary.com/s/man-computer-symbiosis) 
 - [Teacher spends two days as a student and is shocked at what she learns - The Washington Post](https://www.washingtonpost.com/news/answer-sheet/wp/2014/10/24/teacher-spends-two-days-as-a-student-and-is-shocked-at-what-she-learned/?utm_term=.89d6b4dd1d71) 
+- [Peter Temin: Economic Mobility Requires the Nearly Impossible - The Atlantic](https://www.theatlantic.com/business/archive/2017/04/economic-inequality/524610/?utm_source=atlfb&amp;single_page=true) 
