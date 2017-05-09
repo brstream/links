@@ -318,3 +318,6 @@
 
 ### April 30, 2017
 - [National Park Maps | NPMaps.com - just free maps, period.](http://npmaps.com/) 
+
+### May 9, 2017
+- [ZEIT – Buy Domains from the CLI](https://zeit.co/blog/buy-domains) 
