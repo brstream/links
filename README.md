@@ -330,3 +330,4 @@
 - [Why every human has a blind spot - and how to find yours](http://io9.gizmodo.com/5804116/why-every-human-has-a-blind-spot---and-how-to-find-yours) 
 - [Desmos Graphing Calculator](https://www.desmos.com/calculator) 
 - [Turning Sublime Text Into a Lightweight Python IDE — training.codefellows 1.0 documentation](http://cewing.github.io/training.codefellows/assignments/day01/sublime_as_ide.html) 
+- [This Incredible Flower Timelapse Took 3 Years and 8TB of Photos to Create](https://petapixel.com/2017/05/09/incredible-flower-timelapse-took-3-years-8tb-photos-create/) 
