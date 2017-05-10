@@ -329,3 +329,4 @@
 - [Peter Temin: Economic Mobility Requires the Nearly Impossible - The Atlantic](https://www.theatlantic.com/business/archive/2017/04/economic-inequality/524610/?utm_source=atlfb&amp;single_page=true) 
 - [Why every human has a blind spot - and how to find yours](http://io9.gizmodo.com/5804116/why-every-human-has-a-blind-spot---and-how-to-find-yours) 
 - [Desmos Graphing Calculator](https://www.desmos.com/calculator) 
+- [Turning Sublime Text Into a Lightweight Python IDE — training.codefellows 1.0 documentation](http://cewing.github.io/training.codefellows/assignments/day01/sublime_as_ide.html) 
