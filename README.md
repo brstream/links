@@ -328,3 +328,4 @@
 - [Teacher spends two days as a student and is shocked at what she learns - The Washington Post](https://www.washingtonpost.com/news/answer-sheet/wp/2014/10/24/teacher-spends-two-days-as-a-student-and-is-shocked-at-what-she-learned/?utm_term=.89d6b4dd1d71) 
 - [Peter Temin: Economic Mobility Requires the Nearly Impossible - The Atlantic](https://www.theatlantic.com/business/archive/2017/04/economic-inequality/524610/?utm_source=atlfb&amp;single_page=true) 
 - [Why every human has a blind spot - and how to find yours](http://io9.gizmodo.com/5804116/why-every-human-has-a-blind-spot---and-how-to-find-yours) 
+- [Desmos Graphing Calculator](https://www.desmos.com/calculator) 
