@@ -331,3 +331,6 @@
 - [Desmos Graphing Calculator](https://www.desmos.com/calculator) 
 - [Turning Sublime Text Into a Lightweight Python IDE — training.codefellows 1.0 documentation](http://cewing.github.io/training.codefellows/assignments/day01/sublime_as_ide.html) 
 - [This Incredible Flower Timelapse Took 3 Years and 8TB of Photos to Create](https://petapixel.com/2017/05/09/incredible-flower-timelapse-took-3-years-8tb-photos-create/) 
+
+### May 12, 2017
+- [A Cosmic Controversy - Scientific American Blog Network](https://blogs.scientificamerican.com/observations/a-cosmic-controversy/#reply) 
