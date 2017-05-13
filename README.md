@@ -334,3 +334,6 @@
 
 ### May 12, 2017
 - [A Cosmic Controversy - Scientific American Blog Network](https://blogs.scientificamerican.com/observations/a-cosmic-controversy/#reply) 
+
+### May 13, 2017
+- [Where have all the insects gone? | Science | AAAS](https://www.sciencemag.org/news/2017/05/where-have-all-insects-gone) 
