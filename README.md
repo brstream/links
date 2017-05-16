@@ -338,3 +338,6 @@
 ### May 13, 2017
 - [Where have all the insects gone? | Science | AAAS](https://www.sciencemag.org/news/2017/05/where-have-all-insects-gone) 
 - [Verb Master](https://andycloke.github.io/verb-master/#/?_k=iqf4ia) 
+
+### May 16, 2017
+- [David Byrne | Journal | ELIMINATING THE HUMAN](http://davidbyrne.com/journal/eliminating-the-human) 
