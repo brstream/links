@@ -341,3 +341,6 @@
 
 ### May 16, 2017
 - [David Byrne | Journal | ELIMINATING THE HUMAN](http://davidbyrne.com/journal/eliminating-the-human) 
+
+### May 17, 2017
+- [What Earth would look like if the ice melted - Business Insider](http://uk.businessinsider.com/what-earth-would-look-like-if-ice-melted-world-map-animation-2017-4?r=UK&IR=T) 
