@@ -346,3 +346,4 @@
 - [What Earth would look like if the ice melted - Business Insider](http://uk.businessinsider.com/what-earth-would-look-like-if-ice-melted-world-map-animation-2017-4?r=UK&IR=T) 
 - [A Story of Slavery in Modern America - The Atlantic](https://www.theatlantic.com/magazine/archive/2017/06/lolas-story/524490/) 
 - [Damocles - Wikipedia](https://en.wikipedia.org/wiki/Damocles) 
+- [UH Researchers Report New, More Efficient Catalyst for Water Splitting - University of Houston](http://www.uh.edu/news-events/stories/2017/April/05152017Ren-Water-Catalyst.php) 
