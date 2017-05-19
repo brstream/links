@@ -352,3 +352,6 @@
 - [BBC Radio 4 - Sunday, Archbishop of Canterbury in the Middle East, Mindfulness in School, Benedictine Monks and Diet, Mindfulness](http://www.bbc.co.uk/programmes/p052bmf0) 
 - [BBC Radio 4 - Sunday, Archbishop of Canterbury in the Middle East, Mindfulness in School, Benedictine Monks and Diet, Mindfulness](http://www.bbc.co.uk/programmes/p052bmf0) 
 - [History of Emacs and vi Keys](http://xahlee.info/kbd/keyboard_hardware_and_key_choices.html) 
+
+### May 19, 2017
+- [How we invented a new way to teach one of the most difficult languages to learn | Making Duolingo Blog](http://making.duolingo.com/how-we-invented-a-new-way-to-teach-one-of-the-most-difficult-languages-to-learn) 
