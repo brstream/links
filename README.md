@@ -356,3 +356,6 @@
 ### May 19, 2017
 - [How we invented a new way to teach one of the most difficult languages to learn | Making Duolingo Blog](http://making.duolingo.com/how-we-invented-a-new-way-to-teach-one-of-the-most-difficult-languages-to-learn) 
 - [Arc Programming Language](http://arclanguage.github.io/) 
+
+### May 20, 2017
+- [Quantum Physicists Attack the Riemann Hypothesis](https://www.quantamagazine.org/20170404-quantum-physicists-attack-the-riemann-hypothesis/) 
