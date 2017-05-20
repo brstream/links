@@ -360,3 +360,4 @@
 ### May 20, 2017
 - [Quantum Physicists Attack the Riemann Hypothesis](https://www.quantamagazine.org/20170404-quantum-physicists-attack-the-riemann-hypothesis/) 
 - [Archaeology meets particle physics | symmetry magazine](http://www.symmetrymagazine.org/article/archaeology-meets-particle-physics) 
+- [Inversion: The Crucial Thinking Skill Nobody Ever Taught You](http://jamesclear.com/inversion) 
