@@ -362,3 +362,6 @@
 - [Archaeology meets particle physics | symmetry magazine](http://www.symmetrymagazine.org/article/archaeology-meets-particle-physics) 
 - [Inversion: The Crucial Thinking Skill Nobody Ever Taught You](http://jamesclear.com/inversion) 
 - [How RNA formed at the origins of life](https://phys.org/news/2017-05-rna-life.html) 
+
+### May 21, 2017
+- [We Aren’t Built to Live in the Moment - The New York Times](https://www.nytimes.com/2017/05/19/opinion/sunday/why-the-future-is-always-on-your-mind.html?action=click&contentCollection=Magazine&module=Trending&version=Full&region=Marginalia&pgtype=article) 
