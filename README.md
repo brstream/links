@@ -365,3 +365,4 @@
 
 ### May 21, 2017
 - [We Aren’t Built to Live in the Moment - The New York Times](https://www.nytimes.com/2017/05/19/opinion/sunday/why-the-future-is-always-on-your-mind.html?action=click&contentCollection=Magazine&module=Trending&version=Full&region=Marginalia&pgtype=article) 
+- [We Aren’t Built to Live in the Moment - The New York Times](https://www.nytimes.com/2017/05/19/opinion/sunday/why-the-future-is-always-on-your-mind.html?action=click&contentCollection=Magazine&module=Trending&version=Full&region=Marginalia&pgtype=article) 
