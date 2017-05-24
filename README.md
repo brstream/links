@@ -375,3 +375,4 @@
 - [AgileBits Blog | Introducing Travel Mode: Protect your data when crossing borders](https://blog.agilebits.com/2017/05/18/introducing-travel-mode-protect-your-data-when-crossing-borders/) 
 - [Basecamp’s Employee Handbook is Public! – Signal v. Noise](https://m.signalvnoise.com/basecamps-employee-handbook-is-public-356167dff126) 
 - [In ‘Enormous Success,’ Scientists Tie 52 Genes to Human Intelligence - The New York Times](https://www.nytimes.com/2017/05/22/science/52-genes-human-intelligence.html?mabReward=CTM4&recp=6&_r=1) 
+- [https://www.gnu.org/fun/jokes/ed-msg.txt](https://www.gnu.org/fun/jokes/ed-msg.txt) 
