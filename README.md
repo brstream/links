@@ -376,3 +376,6 @@
 - [Basecamp’s Employee Handbook is Public! – Signal v. Noise](https://m.signalvnoise.com/basecamps-employee-handbook-is-public-356167dff126) 
 - [In ‘Enormous Success,’ Scientists Tie 52 Genes to Human Intelligence - The New York Times](https://www.nytimes.com/2017/05/22/science/52-genes-human-intelligence.html?mabReward=CTM4&recp=6&_r=1) 
 - [https://www.gnu.org/fun/jokes/ed-msg.txt](https://www.gnu.org/fun/jokes/ed-msg.txt) 
+
+### May 25, 2017
+- [Little Things I Like to Do with Git – CSS Wizardry – CSS Architecture, Web Performance Optimisation, and more, by Harry Roberts](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/) 
