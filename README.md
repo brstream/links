@@ -379,3 +379,4 @@
 
 ### May 25, 2017
 - [Little Things I Like to Do with Git – CSS Wizardry – CSS Architecture, Web Performance Optimisation, and more, by Harry Roberts](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/) 
+- [Little Things I Like to Do with Git – CSS Wizardry – CSS Architecture, Web Performance Optimisation, and more, by Harry Roberts](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/) 
