@@ -382,3 +382,6 @@
 - [Little Things I Like to Do with Git – CSS Wizardry – CSS Architecture, Web Performance Optimisation, and more, by Harry Roberts](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/) 
 - [Visit a New Digital Archive of 2.2 Million Images from the First Hundred Years of Photography | Open Culture](http://www.openculture.com/2017/05/visit-a-new-digital-archive-of-2-2-million-images-from-the-first-hundred-years-of-photography.html) 
 - [Get Married, Get Healthy? Maybe Not - The New York Times](https://www.nytimes.com/2017/05/25/opinion/marriage-health-study.html?action=click&pgtype=Homepage&clickSource=story-heading&module=opinion-c-col-left-region&region=opinion-c-col-left-region&WT.nav=opinion-c-col-left-region) 
+
+### May 31, 2017
+- [Rebecca Solnit: The Loneliness of Donald Trump | Literary Hub](http://lithub.com/rebecca-solnit-the-loneliness-of-donald-trump/) 
