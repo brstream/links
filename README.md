@@ -385,3 +385,4 @@
 
 ### May 31, 2017
 - [Rebecca Solnit: The Loneliness of Donald Trump | Literary Hub](http://lithub.com/rebecca-solnit-the-loneliness-of-donald-trump/) 
+- [Daniel Soar · The Most Expensive Weapon Ever Built · LRB 30 March 2017](https://www.lrb.co.uk/v39/n07/daniel-soar/the-most-expensive-weapon-ever-built) 
