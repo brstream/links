@@ -392,3 +392,4 @@
 
 ### June 3, 2017
 - [Find Two Words Near Each Other](http://www.regular-expressions.info/near.html) 
+- [How Nature Manages Its Information](http://nautil.us/issue/48/chaos/nature-the-it-wizard-rp) 
