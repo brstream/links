@@ -396,3 +396,4 @@
 
 ### June 6, 2017
 - [Why Alex Honnold’s Free Solo of El Cap Scared Me | Outside Online](https://www.outsideonline.com/2190306/why-alex-honnolds-free-solo-scared-me) 
+- [Alex Honnold casually climbed a rock higher than the world's tallest building. With no safety gear. - SBNation.com](http://www.sbnation.com/2017/6/5/15739914/alex-honnold-el-capitan-free-solo-yosemite-but-why) 
