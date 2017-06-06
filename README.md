@@ -393,3 +393,6 @@
 ### June 3, 2017
 - [Find Two Words Near Each Other](http://www.regular-expressions.info/near.html) 
 - [How Nature Manages Its Information](http://nautil.us/issue/48/chaos/nature-the-it-wizard-rp) 
+
+### June 6, 2017
+- [Why Alex Honnold’s Free Solo of El Cap Scared Me | Outside Online](https://www.outsideonline.com/2190306/why-alex-honnolds-free-solo-scared-me) 
