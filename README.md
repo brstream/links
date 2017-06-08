@@ -403,3 +403,6 @@
 - [Why I’m Launching TrumpiLeaks | MICHAEL MOORE](https://michaelmoore.com/WhyImLaunchingTrumpiLeaks/) 
 - [The things most likely to kill you in one infographic | The Independent](http://www.independent.co.uk/news/health/the-things-most-likely-to-kill-you-in-one-infographic-a7747386.html) 
 - [Neutrino discovery—a step closer to finding charge-parity violation](https://phys.org/news/2017-06-neutrino-discoverya-closer-charge-parity-violation.html) 
+
+### June 9, 2017
+- [Oldest Homo sapiens bones ever found shake foundations of the human story | Science | The Guardian](https://www.theguardian.com/science/2017/jun/07/oldest-homo-sapiens-bones-ever-found-shake-foundations-of-the-human-story?CMP=fb_us) 
