@@ -417,3 +417,4 @@
 ### June 14, 2017
 - [The Liver: A ‘Blob’ That Runs the Body - The New York Times](https://www.nytimes.com/2017/06/12/health/liver-bodily-function.html?_r=0) 
 - [Alliance on Nautilus: Unveiling the Viral Ecology of Earth](http://alliance.nautil.us/article/219/unveiling-the-viral-ecology-of-earth) 
+- [Vegetarian diets almost twice as effective in reducing body weight, study finds | Science Bulletin](http://sciencebulletin.org/archives/13696.html) 
