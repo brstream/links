@@ -413,3 +413,6 @@
 - [Internet Archive Search: thich nhat hanh](https://archive.org/search.php?query=thich%20nhat%20hanh&sin=TXT) 
 - [NASA e-Books | NASA](https://www.nasa.gov/connect/ebooks/index.html) 
 - [El Capitan, My El Capitan - The New York Times](https://www.nytimes.com/2017/06/09/opinion/el-capitan-my-el-capitan.html?action=click&pgtype=Homepage&clickSource=story-heading&module=opinion-c-col-right-region&region=opinion-c-col-right-region&WT.nav=opinion-c-col-right-region) 
+
+### June 14, 2017
+- [The Liver: A ‘Blob’ That Runs the Body - The New York Times](https://www.nytimes.com/2017/06/12/health/liver-bodily-function.html?_r=0) 
