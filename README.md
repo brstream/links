@@ -424,3 +424,4 @@
 - [Experience: I spent 29 years in solitary confinement | Robert King | Life and style | The Guardian](https://www.theguardian.com/lifeandstyle/2010/aug/28/29-years-solitary-confinement-robert-king) 
 - [Snips | AI Voice Platform](https://snips.ai/) 
 - [The calibre Content server — calibre 3.0.0 documentation](https://manual.calibre-ebook.com/server.html) 
+- [Standard Ebooks: Free and liberated ebooks, carefully produced for the true book lover.](https://standardebooks.org/) 
