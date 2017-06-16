@@ -419,3 +419,6 @@
 - [Alliance on Nautilus: Unveiling the Viral Ecology of Earth](http://alliance.nautil.us/article/219/unveiling-the-viral-ecology-of-earth) 
 - [Vegetarian diets almost twice as effective in reducing body weight, study finds | Science Bulletin](http://sciencebulletin.org/archives/13696.html) 
 - [Solutions | Drawdown](http://www.drawdown.org/solutions) 
+
+### June 16, 2017
+- [Experience: I spent 29 years in solitary confinement | Robert King | Life and style | The Guardian](https://www.theguardian.com/lifeandstyle/2010/aug/28/29-years-solitary-confinement-robert-king) 
