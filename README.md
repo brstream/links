@@ -422,3 +422,4 @@
 
 ### June 16, 2017
 - [Experience: I spent 29 years in solitary confinement | Robert King | Life and style | The Guardian](https://www.theguardian.com/lifeandstyle/2010/aug/28/29-years-solitary-confinement-robert-king) 
+- [Snips | AI Voice Platform](https://snips.ai/) 
