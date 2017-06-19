@@ -432,3 +432,4 @@
 
 ### June 19, 2017
 - [Thermodynamic Asymmetry in Time (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/time-thermo/) 
+- [#!bash.rocks](https://bash.rocks/) 
