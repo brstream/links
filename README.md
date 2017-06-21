@@ -433,3 +433,6 @@
 ### June 19, 2017
 - [Thermodynamic Asymmetry in Time (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/time-thermo/) 
 - [#!bash.rocks](https://bash.rocks/) 
+
+### June 21, 2017
+- [Freshwater from salt water using only solar energy](http://news.rice.edu/2017/06/19/freshwater-from-salt-water-using-only-solar-energy-2/) 
