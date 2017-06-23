@@ -436,3 +436,6 @@
 
 ### June 21, 2017
 - [Freshwater from salt water using only solar energy](http://news.rice.edu/2017/06/19/freshwater-from-salt-water-using-only-solar-energy-2/) 
+
+### June 23, 2017
+- [Luna. Visual and textual functional programming language.](http://www.luna-lang.org/) 
