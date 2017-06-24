@@ -439,3 +439,6 @@
 
 ### June 23, 2017
 - [Luna. Visual and textual functional programming language.](http://www.luna-lang.org/) 
+
+### June 24, 2017
+- [Consciousness and its Place in Nature](http://consc.net/papers/nature.html) 
