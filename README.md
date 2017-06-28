@@ -442,3 +442,6 @@
 
 ### June 24, 2017
 - [Consciousness and its Place in Nature](http://consc.net/papers/nature.html) 
+
+### June 28, 2017
+- [MITP on Nautilus: The Paradox of the Elephant Brain](http://mitp.nautil.us/feature/227/the-paradox-of-the-elephant-brain) 
