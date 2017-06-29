@@ -445,3 +445,6 @@
 
 ### June 28, 2017
 - [MITP on Nautilus: The Paradox of the Elephant Brain](http://mitp.nautil.us/feature/227/the-paradox-of-the-elephant-brain) 
+
+### June 29, 2017
+- [Impact of Social Sciences – How to read and understand a scientific paper: a guide for non-scientists](http://blogs.lse.ac.uk/impactofsocialsciences/2016/05/09/how-to-read-and-understand-a-scientific-paper-a-guide-for-non-scientists/) 
