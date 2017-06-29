@@ -449,3 +449,4 @@
 ### June 29, 2017
 - [Impact of Social Sciences – How to read and understand a scientific paper: a guide for non-scientists](http://blogs.lse.ac.uk/impactofsocialsciences/2016/05/09/how-to-read-and-understand-a-scientific-paper-a-guide-for-non-scientists/) 
 - [Even moderate drinking causes atrophy in brain area related to memory, learning - The Washington Post](https://www.washingtonpost.com/national/health-science/even-moderate-drinking-causes-atrophy-in-brain-area-related-to-memory-learning/2017/06/23/7e07debc-576c-11e7-ba90-f5875b7d1876_story.html) 
+- [AN 3.68: Sectarians (English) - Tika Nipāta - SuttaCentral](https://suttacentral.net/en/an3.68) 
