@@ -453,3 +453,6 @@
 
 ### July 4, 2017
 - [Dipy — dipy 0.12.0 documentation](http://nipy.org/dipy/index.html) 
+
+### July 6, 2017
+- [Elvish: Friendly and Expressive Shell](https://elvish.io/) 
