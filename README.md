@@ -459,3 +459,4 @@
 
 ### July 9, 2017
 - [GatsbyJS](https://www.gatsbyjs.org/) 
+- [How Nature Solves Problems Through Computation | Quanta Magazine](https://www.quantamagazine.org/how-nature-solves-problems-through-computation-20170706/) 
