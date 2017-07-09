@@ -456,3 +456,6 @@
 
 ### July 6, 2017
 - [Elvish: Friendly and Expressive Shell](https://elvish.io/) 
+
+### July 9, 2017
+- [GatsbyJS](https://www.gatsbyjs.org/) 
