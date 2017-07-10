@@ -464,3 +464,4 @@
 ### July 10, 2017
 - [How to make a friend fast - the scientific method](https://happyturtlethings.net/how-to-make-a-friend-fast/) 
 - [Lumail - Console Mail Client with Lua scripting](https://lumail.org/) 
+- [Legible News](https://legiblenews.com/) 
