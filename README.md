@@ -471,3 +471,6 @@
 ### July 12, 2017
 - [tinyapps.org](https://tinyapps.org/) 
 - [Bitcoin and Cryptocurrency Technologies | Coursera](https://www.coursera.org/learn/cryptocurrency#ratings) 
+
+### July 14, 2017
+- [Ten Fold Engineering](https://www.tenfoldengineering.com/) 
