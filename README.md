@@ -475,3 +475,6 @@
 ### July 14, 2017
 - [Ten Fold Engineering](https://www.tenfoldengineering.com/) 
 - [In 'Stoned Ape' Theory, Consciousness Has Roots in Psilocybin | Inverse](https://www.inverse.com/article/34186-stoned-ape-hypothesis) 
+
+### July 26, 2017 
+- [How long before superintelligence?](https://www.nickbostrom.com/superintelligence.html) 
