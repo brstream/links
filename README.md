@@ -478,3 +478,6 @@
 
 ### July 26, 2017 
 - [How long before superintelligence?](https://www.nickbostrom.com/superintelligence.html) 
+
+### July 30, 2017 
+- [We Evolved to Run—But We're Doing It All Wrong](http://news.nationalgeographic.com/2017/07/running-books-jogging-health-science/) 
