@@ -481,3 +481,6 @@
 
 ### July 30, 2017 
 - [We Evolved to Run—But We're Doing It All Wrong](http://news.nationalgeographic.com/2017/07/running-books-jogging-health-science/) 
+
+### July 31, 2017 
+- [What more evidence do we need to stop killing pigs for food? | Aeon Essays](https://aeon.co/essays/what-more-evidence-do-we-need-to-stop-killing-pigs-for-food) 
