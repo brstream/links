@@ -484,3 +484,6 @@
 
 ### July 31, 2017 
 - [What more evidence do we need to stop killing pigs for food? | Aeon Essays](https://aeon.co/essays/what-more-evidence-do-we-need-to-stop-killing-pigs-for-food) 
+
+### August 1, 2017 
+- [100x faster, 10x cheaper: 3D metal printing is about to go mainstream](http://newatlas.com/desktop-metal-3d-printing/50654/) 
