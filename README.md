@@ -487,3 +487,6 @@
 
 ### August 1, 2017 
 - [100x faster, 10x cheaper: 3D metal printing is about to go mainstream](http://newatlas.com/desktop-metal-3d-printing/50654/) 
+
+### August 2, 2017 
+- [Log - stagit - static git page generator](https://git.codemadness.org/stagit/log.html) 
