@@ -490,3 +490,6 @@
 
 ### August 2, 2017 
 - [Log - stagit - static git page generator](https://git.codemadness.org/stagit/log.html) 
+
+### August 9, 2017 
+- [78rpm Records Digitized by George Blood, L.P. : Free Audio : Download & Streaming : Internet Archive](https://archive.org/details/georgeblood?and[]=subject%3A%22Jazz%22&and[]=creator%3A%22duke%20ellington%22&and[]=creator%3A%22duke%20ellington%20and%20his%20famous%20orchestra%22&and[]=creator%3A%22ellington%22&and[]=creator%3A%22errol%20garner%22&and[]=creator%3A%22sidney%20bechet%22&and[]=creator%3A%22armstrong%22&and[]=creator%3A%22cab%20calloway%20and%20the%20cabaliers%22&and[]=creator%3A%22dizzy%20gillespie%22&and[]=creator%3A%22lionel%20hampton%22&and[]=creator%3A%22stan%20getz%20quartet%22&and[]=creator%3A%22the%20lionel%20hampton%20big%20band%22&and[]=creator%3A%22the%20lionel%20hampton%20sextet%22) 
