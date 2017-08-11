@@ -498,3 +498,6 @@
 
 ### August 10, 2017 
 - [Arguing about species: Is it evidence, or ego? · john hawks weblog](http://johnhawks.net/weblog/topics/taxonomy/species-argument-evidence-ego-2017.html) 
+
+### August 11, 2017 
+- [Crackle — keyboard layout for programmers – Jack Couch – Medium](https://medium.com/@jack_21924/crackle-keyboard-layout-for-special-characters-e4dd04838231) 
