@@ -501,3 +501,6 @@
 
 ### August 11, 2017 
 - [Crackle — keyboard layout for programmers – Jack Couch – Medium](https://medium.com/@jack_21924/crackle-keyboard-layout-for-special-characters-e4dd04838231) 
+
+### August 15, 2017 
+- [why selection bias is the most powerful force in education – the ANOVA](https://fredrikdeboer.com/2017/03/29/why-selection-bias-is-the-most-powerful-force-in-education/) 
