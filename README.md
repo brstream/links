@@ -504,3 +504,6 @@
 
 ### August 15, 2017 
 - [why selection bias is the most powerful force in education – the ANOVA](https://fredrikdeboer.com/2017/03/29/why-selection-bias-is-the-most-powerful-force-in-education/) 
+
+### August 19, 2017 
+- [Eclipses visible in New York, New York, USA - 21 Aug 2017 Solar Eclipse](https://www.timeanddate.com/eclipse/in/usa/new-york) 
