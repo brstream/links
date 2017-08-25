@@ -507,3 +507,6 @@
 
 ### August 19, 2017 
 - [Eclipses visible in New York, New York, USA - 21 Aug 2017 Solar Eclipse](https://www.timeanddate.com/eclipse/in/usa/new-york) 
+
+### August 24, 2017 
+- [What Made the Moon? New Ideas Try to Rescue a Troubled Theory | Quanta Magazine](https://www.quantamagazine.org/what-made-the-moon-new-ideas-try-to-rescue-a-troubled-theory-20170802/) 
