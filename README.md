@@ -517,3 +517,4 @@
 
 ### September 1, 2017 
 - [Very brief mindfulness training helped heavy drinkers cut back](http://www.medicalnewstoday.com/articles/319120.php) 
+- [So You Want to be Warm | Jacksrbetter](http://www.jacksrbetter.com/warm-article/) 
