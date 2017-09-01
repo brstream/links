@@ -514,3 +514,6 @@
 ### August 31, 2017 
 - [Instant +100% command line productivity boost](https://dev.to/sobolevn/instant-100-command-line-productivity-boost) 
 - [Pastel](https://usepastel.com/#howitworks) 
+
+### September 1, 2017 
+- [Very brief mindfulness training helped heavy drinkers cut back](http://www.medicalnewstoday.com/articles/319120.php) 
