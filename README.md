@@ -518,3 +518,6 @@
 ### September 1, 2017 
 - [Very brief mindfulness training helped heavy drinkers cut back](http://www.medicalnewstoday.com/articles/319120.php) 
 - [So You Want to be Warm | Jacksrbetter](http://www.jacksrbetter.com/warm-article/) 
+
+### September 2, 2017 
+- [What's Really Warming the World? Climate deniers blame natural factors; NASA data proves otherwise](https://www.bloomberg.com/graphics/2015-whats-warming-the-world/) 
