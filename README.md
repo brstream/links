@@ -521,3 +521,6 @@
 
 ### September 2, 2017 
 - [What's Really Warming the World? Climate deniers blame natural factors; NASA data proves otherwise](https://www.bloomberg.com/graphics/2015-whats-warming-the-world/) 
+
+### September 3, 2017 
+- [Delete Facebook. Permanent Account Deletion.](http://www.deletefacebook.com/) 
