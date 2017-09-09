@@ -524,3 +524,6 @@
 
 ### September 3, 2017 
 - [Delete Facebook. Permanent Account Deletion.](http://www.deletefacebook.com/) 
+
+### September 9, 2017 
+- [Lazy ants make themselves useful in unexpected ways](https://phys.org/news/2017-09-lazy-ants-unexpected-ways.html) 
