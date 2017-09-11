@@ -528,3 +528,6 @@
 ### September 9, 2017 
 - [Lazy ants make themselves useful in unexpected ways](https://phys.org/news/2017-09-lazy-ants-unexpected-ways.html) 
 - [idyll-lang.github](https://idyll-lang.github.io/) 
+
+### September 10, 2017 
+- [Massive genetic study shows how humans are evolving : Nature News & Comment](https://www.nature.com/news/massive-genetic-study-shows-how-humans-are-evolving-1.22565) 
