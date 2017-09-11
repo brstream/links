@@ -531,3 +531,4 @@
 
 ### September 10, 2017 
 - [Massive genetic study shows how humans are evolving : Nature News & Comment](https://www.nature.com/news/massive-genetic-study-shows-how-humans-are-evolving-1.22565) 
+- [CNN - Breaking News, Latest News and Videos](http://lite.cnn.io/en) 
