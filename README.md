@@ -535,3 +535,4 @@
 
 ### September 12, 2017 
 - [The Ten Essentials for Camping & Hiking - REI Expert Advice](https://www.rei.com/learn/expert-advice/ten-essentials.html) 
+- [Build A Personal Power Plant For $200.](http://gridlesskits.com/2017/09/06/burning-man-update.html) 
