@@ -537,3 +537,4 @@
 - [The Ten Essentials for Camping & Hiking - REI Expert Advice](https://www.rei.com/learn/expert-advice/ten-essentials.html) 
 - [Build A Personal Power Plant For $200.](http://gridlesskits.com/2017/09/06/burning-man-update.html) 
 - [Human skin cells transformed directly into motor neurons](https://medicalxpress.com/news/2017-09-human-skin-cells-motor-neurons.html) 
+- [The World's Parasites Are Going Extinct. Here’s Why That’s a Bad Thing | Science | Smithsonian](http://www.smithsonianmag.com/science-nature/parasites-are-going-extinct-heres-why-thats-a-bad-thing-180964808/?no-ist) 
