@@ -545,3 +545,6 @@
 
 ### September 15, 2017 
 - [What Science Says To Do If Your Loved One Has An Opioid Addiction | FiveThirtyEight](https://fivethirtyeight.com/features/what-science-says-to-do-if-your-loved-one-has-an-opioid-addiction/) 
+
+### September 18, 2017 
+- [30 interesting commands for the Linux shell – Víctor López Ferrando](https://www.lopezferrando.com/30-interesting-shell-commands/) 
