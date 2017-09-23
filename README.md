@@ -548,3 +548,6 @@
 
 ### September 18, 2017 
 - [30 interesting commands for the Linux shell – Víctor López Ferrando](https://www.lopezferrando.com/30-interesting-shell-commands/) 
+
+### September 23, 2017 
+- [21 better ways to read Hacker News – which is your favorite? | Hacker Bits](https://hackerbits.com/uncategorized/improve-hacker-news-ui/) 
