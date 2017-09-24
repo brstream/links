@@ -551,3 +551,6 @@
 
 ### September 23, 2017 
 - [21 better ways to read Hacker News – which is your favorite? | Hacker Bits](https://hackerbits.com/uncategorized/improve-hacker-news-ui/) 
+
+### September 24, 2017 
+- [The shorter your sleep, the shorter your life: the new sleep science | Life and style | The Guardian](https://www.theguardian.com/lifeandstyle/2017/sep/24/why-lack-of-sleep-health-worst-enemy-matthew-walker-why-we-sleep) 
