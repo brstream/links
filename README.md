@@ -554,3 +554,6 @@
 
 ### September 24, 2017 
 - [The shorter your sleep, the shorter your life: the new sleep science | Life and style | The Guardian](https://www.theguardian.com/lifeandstyle/2017/sep/24/why-lack-of-sleep-health-worst-enemy-matthew-walker-why-we-sleep) 
+
+### October 10, 2017 
+- [Half the universe’s missing matter has just been finally found | New Scientist](https://www.newscientist.com/article/2149742-half-the-universes-missing-matter-has-just-been-finally-found/amp/) 
