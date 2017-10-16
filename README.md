@@ -560,3 +560,4 @@
 
 ### October 16, 2017 
 - [ESO Telescopes Observe First Light from Gravitational Wave Source | ESO](https://www.eso.org/public/news/eso1733/) 
+- [How a Quarter of Cow DNA Came From Reptiles - The Atlantic](https://www.theatlantic.com/science/archive/2017/10/how-a-quarter-of-the-cow-genome-came-from-reptiles/542868/?single_page=true) 
