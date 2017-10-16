@@ -557,3 +557,6 @@
 
 ### October 10, 2017 
 - [Half the universe’s missing matter has just been finally found | New Scientist](https://www.newscientist.com/article/2149742-half-the-universes-missing-matter-has-just-been-finally-found/amp/) 
+
+### October 16, 2017 
+- [ESO Telescopes Observe First Light from Gravitational Wave Source | ESO](https://www.eso.org/public/news/eso1733/) 
