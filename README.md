@@ -563,3 +563,6 @@
 - [How a Quarter of Cow DNA Came From Reptiles - The Atlantic](https://www.theatlantic.com/science/archive/2017/10/how-a-quarter-of-the-cow-genome-came-from-reptiles/542868/?single_page=true) 
 - [The Python Graph Gallery – Visualizing data – with Python](https://python-graph-gallery.com/) 
 - [The world’s first “negative emissions” plant has opened in Iceland—turning carbon dioxide into stone — Quartz](https://qz.com/1100221/the-worlds-first-negative-emissions-plant-has-opened-in-iceland-turning-carbon-dioxide-into-stone/) 
+
+### October 17, 2017 
+- [Plato Would Have Wanted You to Unplug – EIDOLON](https://eidolon.pub/plato-would-have-wanted-you-to-unplug-712a908a16e0) 
