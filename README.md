@@ -566,3 +566,6 @@
 
 ### October 17, 2017 
 - [Plato Would Have Wanted You to Unplug – EIDOLON](https://eidolon.pub/plato-would-have-wanted-you-to-unplug-712a908a16e0) 
+
+### October 18, 2017 
+- [Colliding stars spark rush to solve cosmic mysteries : Nature News & Comment](https://www.nature.com/news/colliding-stars-spark-rush-to-solve-cosmic-mysteries-1.22829) 
