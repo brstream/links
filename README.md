@@ -569,3 +569,6 @@
 
 ### October 18, 2017 
 - [Colliding stars spark rush to solve cosmic mysteries : Nature News & Comment](https://www.nature.com/news/colliding-stars-spark-rush-to-solve-cosmic-mysteries-1.22829) 
+
+### October 19, 2017 
+- [The Fate of Earth | The New Yorker](https://www.newyorker.com/tech/elements/the-fate-of-earth) 
