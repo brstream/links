@@ -574,3 +574,6 @@
 - [The Fate of Earth | The New Yorker](https://www.newyorker.com/tech/elements/the-fate-of-earth) 
 - [Welcoming Our New Robot Overlords | The New Yorker](https://www.newyorker.com/magazine/2017/10/23/welcoming-our-new-robot-overlords) 
 - [Vim After 15 Years | Ian Langworth’s Things of Variable Interest](https://statico.github.io/vim3.html) 
+
+### October 20, 2017 
+- [FZF & RipGrep - Navigate with bash faster than ever before](http://owen.cymru/fzf-ripgrep-navigate-with-bash-faster-than-ever-before/) 
