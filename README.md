@@ -572,3 +572,4 @@
 
 ### October 19, 2017 
 - [The Fate of Earth | The New Yorker](https://www.newyorker.com/tech/elements/the-fate-of-earth) 
+- [Welcoming Our New Robot Overlords | The New Yorker](https://www.newyorker.com/magazine/2017/10/23/welcoming-our-new-robot-overlords) 
