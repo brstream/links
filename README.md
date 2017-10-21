@@ -580,3 +580,4 @@
 
 ### October 21, 2017 
 - [Sugar is a toxic agent that creates conditions for disease | Aeon Essays](https://aeon.co/essays/sugar-is-a-toxic-agent-that-creates-conditions-for-disease?ref=) 
+- [The Wisdom of a Universal Basic Income - Behavioral Scientist](http://behavioralscientist.org/wisdom-universal-basic-income/) 
