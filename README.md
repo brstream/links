@@ -577,3 +577,6 @@
 
 ### October 20, 2017 
 - [FZF & RipGrep - Navigate with bash faster than ever before](http://owen.cymru/fzf-ripgrep-navigate-with-bash-faster-than-ever-before/) 
+
+### October 21, 2017 
+- [Sugar is a toxic agent that creates conditions for disease | Aeon Essays](https://aeon.co/essays/sugar-is-a-toxic-agent-that-creates-conditions-for-disease?ref=) 
