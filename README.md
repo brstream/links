@@ -581,3 +581,6 @@
 ### October 21, 2017 
 - [Sugar is a toxic agent that creates conditions for disease | Aeon Essays](https://aeon.co/essays/sugar-is-a-toxic-agent-that-creates-conditions-for-disease?ref=) 
 - [The Wisdom of a Universal Basic Income - Behavioral Scientist](http://behavioralscientist.org/wisdom-universal-basic-income/) 
+
+### October 22, 2017 
+- [Getting on cancer’s nerves: A surprising way to thwart tumours | New Scientist](https://www.newscientist.com/article/mg23631480-200-how-hitting-our-nervous-system-could-let-us-defeat-cancer/?utm_campaign=Echobox&utm_medium=Social&utm_source=Twitter#link_time=1508516810) 
