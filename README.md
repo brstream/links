@@ -586,3 +586,6 @@
 - [Getting on cancer’s nerves: A surprising way to thwart tumours | New Scientist](https://www.newscientist.com/article/mg23631480-200-how-hitting-our-nervous-system-could-let-us-defeat-cancer/?utm_campaign=Echobox&utm_medium=Social&utm_source=Twitter#link_time=1508516810) 
 - [the xonsh shell — xonsh 0.2.4 documentation](https://xonsh.org/) 
 - [Terminals Are Awesome](https://terminalsare.sexy/) 
+
+### October 24, 2017 
+- [Fermat's Library | Self-Control Relies on Glucose as a Limited Energy Source: Willpower Is More Than a Metaphor annotated/explained version.](http://fermatslibrary.com/s/self-control-relies-on-glucose-as-a-limited-energy-source-willpower-is-more-than-a-metaphor) 
