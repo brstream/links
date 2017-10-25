@@ -589,3 +589,4 @@
 
 ### October 24, 2017 
 - [Fermat's Library | Self-Control Relies on Glucose as a Limited Energy Source: Willpower Is More Than a Metaphor annotated/explained version.](http://fermatslibrary.com/s/self-control-relies-on-glucose-as-a-limited-energy-source-willpower-is-more-than-a-metaphor) 
+- [Introduction to web scraping with Python - Data, what now?](https://datawhatnow.com/introduction-web-scraping-python/) 
