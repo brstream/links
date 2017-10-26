@@ -593,3 +593,4 @@
 
 ### October 26, 2017 
 - [Why This Cardiologist Is Betting That His Lab-Grown Meat Startup Can Solve the Global Food Crisis | Inc.com](https://www.inc.com/magazine/201711/jeff-bercovici/memphis-meats-lab-grown-meat-startup.html) 
+- [Cyborg Writer](https://cyborg.tenso.rs/) 
