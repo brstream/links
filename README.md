@@ -597,3 +597,6 @@
 
 ### November 1, 2017 
 - [Anvil - Drag and Drop Python Web App Builder](https://anvil.works/) 
+
+### November 6, 2017 
+- [Cells are very fast and crowded places](http://www.righto.com/2011/07/cells-are-very-fast-and-crowded-places.html) 
