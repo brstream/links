@@ -600,3 +600,6 @@
 
 ### November 6, 2017 
 - [Cells are very fast and crowded places](http://www.righto.com/2011/07/cells-are-very-fast-and-crowded-places.html) 
+
+### November 22, 2017 
+- [A CEO's Guide to Emacs | Fugue](https://blog.fugue.co/2015-11-11-guide-to-emacs.html) 
