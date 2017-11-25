@@ -603,3 +603,6 @@
 
 ### November 22, 2017 
 - [A CEO's Guide to Emacs | Fugue](https://blog.fugue.co/2015-11-11-guide-to-emacs.html) 
+
+### November 25, 2017 
+- [1,300 Free Online Courses from Top Universities | Open Culture](http://www.openculture.com/freeonlinecourses) 
