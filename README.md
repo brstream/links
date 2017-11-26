@@ -610,3 +610,4 @@
 
 ### November 26, 2017 
 - [The Organ of the Universe: On Living with Tinnitus - Los Angeles Review of Books](https://lareviewofbooks.org/article/the-organ-of-the-universe-on-living-with-tinnitus/#!) 
+- [The Pali Text Society's Pali-English dictionary](http://dsal.uchicago.edu/dictionaries/pali/) 
