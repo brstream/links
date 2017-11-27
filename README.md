@@ -612,3 +612,6 @@
 - [The Organ of the Universe: On Living with Tinnitus - Los Angeles Review of Books](https://lareviewofbooks.org/article/the-organ-of-the-universe-on-living-with-tinnitus/#!) 
 - [The Pali Text Society's Pali-English dictionary](http://dsal.uchicago.edu/dictionaries/pali/) 
 - [TAM TẠNG SONG NGỮ PALI - VIET](https://www.tamtangpaliviet.net/) 
+
+### November 27, 2017 
+- [ondevice.io](https://ondevice.io/) 
