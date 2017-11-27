@@ -618,3 +618,4 @@
 - [Tavola Mediterranea | Baking Bread with the Romans: Part II – Panis Quadratus](http://tavolamediterranea.com/2017/09/05/baking-bread-romans-part-ii-panis-quadratus/) 
 - [Photovoltaic growth: reality versus projections of the International Energy Agency – the 2017 update (by Auke Hoekstra) | Steinbuch](https://steinbuch.wordpress.com/2017/06/12/photovoltaic-growth-reality-versus-projections-of-the-international-energy-agency/) 
 - [tldr | simplified, community driven man pages](https://tldr.ostera.io/) 
+- [Dharmaguptaka Vinaya | An English translation of the Dharmaguptaka Vinaya from the Chinese Sifen lu](https://dharmaguptakavinaya.wordpress.com/) 
