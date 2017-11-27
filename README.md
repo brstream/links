@@ -615,3 +615,4 @@
 
 ### November 27, 2017 
 - [ondevice.io](https://ondevice.io/) 
+- [Tavola Mediterranea | Baking Bread with the Romans: Part II – Panis Quadratus](http://tavolamediterranea.com/2017/09/05/baking-bread-romans-part-ii-panis-quadratus/) 
