@@ -619,3 +619,6 @@
 - [Photovoltaic growth: reality versus projections of the International Energy Agency – the 2017 update (by Auke Hoekstra) | Steinbuch](https://steinbuch.wordpress.com/2017/06/12/photovoltaic-growth-reality-versus-projections-of-the-international-energy-agency/) 
 - [tldr | simplified, community driven man pages](https://tldr.ostera.io/) 
 - [Dharmaguptaka Vinaya | An English translation of the Dharmaguptaka Vinaya from the Chinese Sifen lu](https://dharmaguptakavinaya.wordpress.com/) 
+
+### December 1, 2017 
+- [hledger: home](http://hledger.org/) 
