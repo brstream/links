@@ -622,3 +622,6 @@
 
 ### December 1, 2017 
 - [hledger: home](http://hledger.org/) 
+
+### December 6, 2017 
+- [Portugal’s radical drugs policy is working. Why hasn’t the world copied it? | News | The Guardian](https://www.theguardian.com/news/2017/dec/05/portugals-radical-drugs-policy-is-working-why-hasnt-the-world-copied-it) 
