@@ -629,3 +629,4 @@
 
 ### December 8, 2017 
 - [Drip - Fund your creative practice through the ongoing support of people who love your work.](https://d.rip/) 
+- [The GNUnet System | GNUnet](https://gnunet.org/grothoff2017habilitation) 
