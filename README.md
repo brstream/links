@@ -626,3 +626,6 @@
 ### December 6, 2017 
 - [Portugal’s radical drugs policy is working. Why hasn’t the world copied it? | News | The Guardian](https://www.theguardian.com/news/2017/dec/05/portugals-radical-drugs-policy-is-working-why-hasnt-the-world-copied-it) 
 - [Landfill photos from six cities that highlight the global waste problem - Washington Post](https://www.washingtonpost.com/graphics/2017/world/global-waste/) 
+
+### December 8, 2017 
+- [Drip - Fund your creative practice through the ongoing support of people who love your work.](https://d.rip/) 
