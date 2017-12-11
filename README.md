@@ -637,3 +637,4 @@
 
 ### December 11, 2017 
 - [1. The Things We Carry – Kipple Field Notes](https://web.archive.org/web/20171211174656/http://www.hillarypredko.com/kipple/1-the-things-we-carry/) 
+- [Circles - A Basic Income on the Blockchain](https://joincircles.net/) 
