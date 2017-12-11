@@ -634,3 +634,6 @@
 ### December 9, 2017 
 - [The great nutrient collapse](https://www.politico.com/agenda/story/2017/09/13/food-nutrients-carbon-dioxide-000511) 
 - [IPFS is the Distributed Web](https://ipfs.io/) 
+
+### December 11, 2017 
+- [1. The Things We Carry – Kipple Field Notes](https://web.archive.org/web/20171211174656/http://www.hillarypredko.com/kipple/1-the-things-we-carry/) 
