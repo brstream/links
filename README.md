@@ -638,3 +638,6 @@
 ### December 11, 2017 
 - [1. The Things We Carry – Kipple Field Notes](https://web.archive.org/web/20171211174656/http://www.hillarypredko.com/kipple/1-the-things-we-carry/) 
 - [Circles - A Basic Income on the Blockchain](https://joincircles.net/) 
+
+### December 14, 2017 
+- [Newtown Is ‘Still So Raw,’ Five Years After Massacre - The New York Times](https://www.nytimes.com/2017/12/13/nyregion/newtown-sandy-hook-five-year-anniversary.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=second-column-region&region=top-news&WT.nav=top-news) 
