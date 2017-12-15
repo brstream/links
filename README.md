@@ -644,3 +644,4 @@
 
 ### December 15, 2017 
 - [Introducing Docusaurus · Docusaurus](https://docusaurus.io/blog/2017/12/14/introducing-docusaurus.html) 
+- [FoldingText — Plain text productivity for Mac users](http://www.foldingtext.com/) 
