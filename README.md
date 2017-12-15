@@ -641,3 +641,6 @@
 
 ### December 14, 2017 
 - [Newtown Is ‘Still So Raw,’ Five Years After Massacre - The New York Times](https://www.nytimes.com/2017/12/13/nyregion/newtown-sandy-hook-five-year-anniversary.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=second-column-region&region=top-news&WT.nav=top-news) 
+
+### December 15, 2017 
+- [Introducing Docusaurus · Docusaurus](https://docusaurus.io/blog/2017/12/14/introducing-docusaurus.html) 
