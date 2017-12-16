@@ -645,3 +645,6 @@
 ### December 15, 2017 
 - [Introducing Docusaurus · Docusaurus](https://docusaurus.io/blog/2017/12/14/introducing-docusaurus.html) 
 - [FoldingText — Plain text productivity for Mac users](http://www.foldingtext.com/) 
+
+### December 16, 2017 
+- [Que faire si je trouve un jeune animal sauvage ou un adulte blessé ? | Clinique vétérinaire MATOUVAR](http://www.matouvar.com/Publication/Show.aspx?item=1530) 
