@@ -648,3 +648,4 @@
 
 ### December 16, 2017 
 - [Que faire si je trouve un jeune animal sauvage ou un adulte blessé ? | Clinique vétérinaire MATOUVAR](http://www.matouvar.com/Publication/Show.aspx?item=1530) 
+- [How to Raise a Wild Pig | Animals - mom.me](http://animals.mom.me/how-to-raise-a-wild-pig-7614286.html) 
