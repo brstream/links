@@ -650,3 +650,6 @@
 - [Que faire si je trouve un jeune animal sauvage ou un adulte blessé ? | Clinique vétérinaire MATOUVAR](http://www.matouvar.com/Publication/Show.aspx?item=1530) 
 - [How to Raise a Wild Pig | Animals - mom.me](http://animals.mom.me/how-to-raise-a-wild-pig-7614286.html) 
 - [The United States of Toxins](https://priceonomics.com/the-united-states-of-toxins/) 
+
+### December 19, 2017 
+- [Neuroscience Has a Lot To Learn from Buddhism - The Atlantic](https://www.theatlantic.com/international/archive/2017/12/buddhism-and-neuroscience/548120/?utm_content=buffer6620b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) 
