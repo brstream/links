@@ -653,3 +653,6 @@
 
 ### December 19, 2017 
 - [Neuroscience Has a Lot To Learn from Buddhism - The Atlantic](https://www.theatlantic.com/international/archive/2017/12/buddhism-and-neuroscience/548120/?utm_content=buffer6620b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) 
+
+### December 20, 2017 
+- [The Screenless Office](http://screenl.es/) 
