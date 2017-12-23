@@ -656,3 +656,6 @@
 
 ### December 20, 2017 
 - [The Screenless Office](http://screenl.es/) 
+
+### December 23, 2017 
+- [Why Sitting May Be Bad for Your Heart - The New York Times](https://www.nytimes.com/2017/12/20/well/move/why-sitting-may-be-bad-for-your-heart.html?&moduleDetail=section-news-1&action=click&contentCollection=Well&region=Footer&module=MoreInSection&version=WhatsNext&contentID=WhatsNext&pgtype=article) 
