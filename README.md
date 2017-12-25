@@ -659,3 +659,6 @@
 
 ### December 23, 2017 
 - [Why Sitting May Be Bad for Your Heart - The New York Times](https://www.nytimes.com/2017/12/20/well/move/why-sitting-may-be-bad-for-your-heart.html?&moduleDetail=section-news-1&action=click&contentCollection=Well&region=Footer&module=MoreInSection&version=WhatsNext&contentID=WhatsNext&pgtype=article) 
+
+### December 25, 2017 
+- [(23) "Why hasn't economic progress lowered work hours more?" Tyler Cowen, Hayek Lecture Series - YouTube](https://www.youtube.com/watch?time_continue=3&v=8Pk654J8-5c) 
