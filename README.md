@@ -663,3 +663,6 @@
 ### December 25, 2017 
 - [(23) "Why hasn't economic progress lowered work hours more?" Tyler Cowen, Hayek Lecture Series - YouTube](https://www.youtube.com/watch?time_continue=3&v=8Pk654J8-5c) 
 - [To Unlock the Brain’s Mysteries, Purée It - The New York Times](https://www.nytimes.com/2017/12/14/magazine/to-unlock-the-brains-mysteries-puree-it.html?_r=0) 
+
+### January 2, 2018 
+- [ASCIIFlow Infinity](http://asciiflow.com/) 
