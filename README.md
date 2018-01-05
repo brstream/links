@@ -669,3 +669,6 @@
 
 ### January 3, 2018 
 - [Fiber Is Good for You. Now Scientists May Know Why. - The New York Times](https://www.nytimes.com/2018/01/01/science/food-fiber-microbiome-inflammation.html?module=WatchingPortal&region=c-column-middle-span-region&pgType=Homepage&action=click&mediaId=thumb_square&state=standard&contentPlacement=7&version=internal&contentCollection=www.nytimes.com&contentId=https%3A%2F%2Fwww.nytimes.com%2F2018%2F01%2F01%2Fscience%2Ffood-fiber-microbiome-inflammation.html&eventName=Watching-article-click) 
+
+### January 5, 2018 
+- [What if sugar is worse than just empty calories? An essay by Gary Taubes | The BMJ](http://www.bmj.com/content/360/bmj.j5808.full) 
