@@ -675,3 +675,6 @@
 
 ### January 6, 2018 
 - [Inside Einstein's head - an explorable explanation of relativistic spacetime](https://www.lucify.com/inside-einsteins-head/) 
+
+### January 7, 2018 
+- [Washington Monthly | How to Fix Facebook—Before It Fixes Us](https://washingtonmonthly.com/magazine/january-february-march-2018/how-to-fix-facebook-before-it-fixes-us/) 
