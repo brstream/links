@@ -678,3 +678,6 @@
 
 ### January 7, 2018 
 - [Washington Monthly | How to Fix Facebook—Before It Fixes Us](https://washingtonmonthly.com/magazine/january-february-march-2018/how-to-fix-facebook-before-it-fixes-us/) 
+
+### January 8, 2018 
+- [Beyond grep: ack 2.22, a source code search tool for programmers](https://beyondgrep.com/) 
