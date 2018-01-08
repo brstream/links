@@ -683,3 +683,4 @@
 - [Beyond grep: ack 2.22, a source code search tool for programmers](https://beyondgrep.com/) 
 - [Sell Digital Products - SquareBit](https://squarebit.io/authors/sell-digital-products) 
 - [A Neuroscientist Explores the "Sanskrit Effect" - Scientific American Blog Network](https://blogs.scientificamerican.com/observations/a-neuroscientist-explores-the-sanskrit-effect/) 
+- [Project Zero: Reading privileged memory with a side-channel](https://googleprojectzero.blogspot.fr/2018/01/reading-privileged-memory-with-side.html) 
