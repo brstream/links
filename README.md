@@ -681,3 +681,4 @@
 
 ### January 8, 2018 
 - [Beyond grep: ack 2.22, a source code search tool for programmers](https://beyondgrep.com/) 
+- [Sell Digital Products - SquareBit](https://squarebit.io/authors/sell-digital-products) 
