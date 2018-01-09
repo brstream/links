@@ -684,3 +684,6 @@
 - [Sell Digital Products - SquareBit](https://squarebit.io/authors/sell-digital-products) 
 - [A Neuroscientist Explores the "Sanskrit Effect" - Scientific American Blog Network](https://blogs.scientificamerican.com/observations/a-neuroscientist-explores-the-sanskrit-effect/) 
 - [Project Zero: Reading privileged memory with a side-channel](https://googleprojectzero.blogspot.fr/2018/01/reading-privileged-memory-with-side.html) 
+
+### January 9, 2018 
+- [The Ultimate Oldschool PC Font Pack: Docs](https://int10h.org/oldschool-pc-fonts/readme/#windows_console) 
