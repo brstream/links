@@ -687,3 +687,6 @@
 
 ### January 9, 2018 
 - [The Ultimate Oldschool PC Font Pack: Docs](https://int10h.org/oldschool-pc-fonts/readme/#windows_console) 
+
+### January 10, 2018 
+- [The Network Effects Manual: 13 Different Network Effects (and counting)](https://www.nfx.com/post/network-effects-manual) 
