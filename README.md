@@ -690,3 +690,6 @@
 
 ### January 10, 2018 
 - [The Network Effects Manual: 13 Different Network Effects (and counting)](https://www.nfx.com/post/network-effects-manual) 
+
+### January 11, 2018 
+- [Moira Donegan: I Started the Media Men List](https://www.thecut.com/2018/01/moira-donegan-i-started-the-media-men-list.html) 
