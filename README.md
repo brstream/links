@@ -693,3 +693,6 @@
 
 ### January 11, 2018 
 - [Moira Donegan: I Started the Media Men List](https://www.thecut.com/2018/01/moira-donegan-i-started-the-media-men-list.html) 
+
+### January 12, 2018 
+- [WALS Online - Feature 138A: Tea](http://wals.info/feature/138A#2/25.5/143.8) 
