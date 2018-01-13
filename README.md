@@ -696,3 +696,6 @@
 
 ### January 12, 2018 
 - [WALS Online - Feature 138A: Tea](http://wals.info/feature/138A#2/25.5/143.8) 
+
+### January 13, 2018 
+- [Rocket - Simple, Fast, Type-Safe Web Framework for Rust](https://rocket.rs/) 
