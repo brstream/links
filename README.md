@@ -699,3 +699,4 @@
 
 ### January 13, 2018 
 - [Rocket - Simple, Fast, Type-Safe Web Framework for Rust](https://rocket.rs/) 
+- [Inside One of America’s Last Pencil Factories - The New York Times](https://www.nytimes.com/2018/01/12/magazine/inside-one-of-americas-last-pencil-factories.html) 
