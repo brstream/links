@@ -701,3 +701,6 @@
 - [Rocket - Simple, Fast, Type-Safe Web Framework for Rust](https://rocket.rs/) 
 - [Inside One of America’s Last Pencil Factories - The New York Times](https://www.nytimes.com/2018/01/12/magazine/inside-one-of-americas-last-pencil-factories.html) 
 - [emilwallner/Screenshot-to-code-in-Keras: A neural network that transforms a screenshot into a static website](https://github.com/emilwallner/Screenshot-to-code-in-Keras) 
+
+### January 15, 2018 
+- [Other topics : 中國古籍網絡資源 - Chinese Text Project](http://ctext.org/discuss.pl?thread=3223065&page=4) 
