@@ -704,3 +704,4 @@
 
 ### January 15, 2018 
 - [Other topics : 中國古籍網絡資源 - Chinese Text Project](http://ctext.org/discuss.pl?thread=3223065&page=4) 
+- [Most Important Penetration Testing Cheat Sheet Linux Machine](https://techincidents.com/important-penetration-testing-cheat-sheet/) 
