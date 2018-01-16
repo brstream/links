@@ -705,3 +705,6 @@
 ### January 15, 2018 
 - [Other topics : 中國古籍網絡資源 - Chinese Text Project](http://ctext.org/discuss.pl?thread=3223065&page=4) 
 - [Most Important Penetration Testing Cheat Sheet Linux Machine](https://techincidents.com/important-penetration-testing-cheat-sheet/) 
+
+### January 16, 2018 
+- [Beyond the Bitcoin Bubble - The New York Times](https://www.nytimes.com/2018/01/16/magazine/beyond-the-bitcoin-bubble.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=first-column-region&region=top-news&WT.nav=top-news&_r=0) 
