@@ -709,3 +709,6 @@
 ### January 16, 2018 
 - [Beyond the Bitcoin Bubble - The New York Times](https://www.nytimes.com/2018/01/16/magazine/beyond-the-bitcoin-bubble.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=first-column-region&region=top-news&WT.nav=top-news&_r=0) 
 - [Miles Davis is not Mozart: The brains of jazz and classical pianists work differently](https://medicalxpress.com/news/2018-01-miles-davis-mozart-brains-jazz.html) 
+
+### January 18, 2018 
+- [Passport Index 2018 | World's passports in your pocket.](https://www.passportindex.org/) 
