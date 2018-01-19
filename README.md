@@ -712,3 +712,6 @@
 
 ### January 18, 2018 
 - [Passport Index 2018 | World's passports in your pocket.](https://www.passportindex.org/) 
+
+### January 19, 2018 
+- [How to see a memory](https://www.nature.com/articles/d41586-018-00107-4) 
