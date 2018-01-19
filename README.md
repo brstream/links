@@ -716,3 +716,4 @@
 ### January 19, 2018 
 - [How to see a memory](https://www.nature.com/articles/d41586-018-00107-4) 
 - [Trimsika : Recordings](http://www.mywhatever.com/sanskrit/trimsika/media.html) 
+- [The Screenshots of Photoshop CC 2018 64bit on Linux : linux](https://www.reddit.com/r/linux/comments/7ql4kl/the_screenshots_of_photoshop_cc_2018_64bit_on/) 
