@@ -718,3 +718,6 @@
 - [Trimsika : Recordings](http://www.mywhatever.com/sanskrit/trimsika/media.html) 
 - [The Screenshots of Photoshop CC 2018 64bit on Linux : linux](https://www.reddit.com/r/linux/comments/7ql4kl/the_screenshots_of_photoshop_cc_2018_64bit_on/) 
 - [A Deep Dive Into the Brain, Hand-Drawn by the Father of Neuroscience - The New York Times](https://www.nytimes.com/2018/01/18/arts/design/brain-neuroscience-santiago-ramon-y-cajal-grey-gallery.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=second-column-region&region=top-news&WT.nav=top-news) 
+
+### January 20, 2018 
+- [InSight Crime's 2017 Homicide Round-Up - InSight Crime](https://www.insightcrime.org/news/analysis/2017-homicide-round-up/) 
