@@ -721,3 +721,6 @@
 
 ### January 20, 2018 
 - [InSight Crime's 2017 Homicide Round-Up - InSight Crime](https://www.insightcrime.org/news/analysis/2017-homicide-round-up/) 
+
+### January 21, 2018 
+- [Training Your Brain So That You Don’t Need Reading Glasses - The New York Times](https://www.nytimes.com/2017/03/27/upshot/training-your-brain-so-that-you-dont-need-reading-glasses.html) 
