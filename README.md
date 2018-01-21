@@ -724,3 +724,4 @@
 
 ### January 21, 2018 
 - [Training Your Brain So That You Don’t Need Reading Glasses - The New York Times](https://www.nytimes.com/2017/03/27/upshot/training-your-brain-so-that-you-dont-need-reading-glasses.html) 
+- [Why is only half of Mars magnetized? | The Planetary Society](http://www.planetary.org/blogs/emily-lakdawalla/2008/1710.html) 
