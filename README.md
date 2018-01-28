@@ -735,3 +735,6 @@
 ### January 26, 2018 
 - [Censys](https://censys.io/) 
 - [The Fields Medal should return to its roots](https://www.nature.com/articles/d41586-018-00513-8) 
+
+### January 28, 2018 
+- [Panpsychism: The idea that everything from spoons to stones are conscious is gaining academic credibility — Quartz](https://qz.com/1184574/the-idea-that-everything-from-spoons-to-stones-are-conscious-is-gaining-academic-credibility/) 
