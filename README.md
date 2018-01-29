@@ -739,3 +739,6 @@
 ### January 28, 2018 
 - [Panpsychism: The idea that everything from spoons to stones are conscious is gaining academic credibility — Quartz](https://qz.com/1184574/the-idea-that-everything-from-spoons-to-stones-are-conscious-is-gaining-academic-credibility/) 
 - [The World Bank Is Remaking Itself as a Creature of Wall Street - The New York Times](https://www.nytimes.com/2018/01/25/business/world-bank-jim-yong-kim.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=first-column-region&region=top-news&WT.nav=top-news) 
+
+### January 29, 2018 
+- [Why Personas Fail](https://www.nngroup.com/articles/why-personas-fail/) 
