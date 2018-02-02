@@ -742,3 +742,6 @@
 
 ### January 29, 2018 
 - [Why Personas Fail](https://www.nngroup.com/articles/why-personas-fail/) 
+
+### February 2, 2018 
+- [Perfection Salad | Meaningness](https://meaningness.com/perfection-salad) 
