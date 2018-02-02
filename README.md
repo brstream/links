@@ -748,3 +748,4 @@
 - [Cancer ‘vaccine’ eliminates tumors in mice | News Center | Stanford Medicine](https://med.stanford.edu/news/all-news/2018/01/cancer-vaccine-eliminates-tumors-in-mice.html) 
 - [Instead of Filling Cavities, Dentists May Soon Regenerate Teeth - Scientific American](https://www.scientificamerican.com/article/instead-of-filling-cavities-dentists-may-soon-regenerate-teeth/) 
 - [A Plate of Jellyfish | by Lucy Jakub | NYR Daily | The New York Review of Books](http://www.nybooks.com/daily/2018/01/31/a-plate-of-jellyfish/) 
+- [Terminal Recorders: A Comprehensive Guide](https://intoli.com/blog/terminal-recorders/) 
