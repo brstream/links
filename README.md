@@ -751,3 +751,4 @@
 - [Terminal Recorders: A Comprehensive Guide](https://intoli.com/blog/terminal-recorders/) 
 - ['Class-passing': how do you learn the rules of being rich? | US news | The Guardian](https://www.theguardian.com/us-news/2018/feb/01/poor-americans-poverty-rich-class) 
 - [upvote.pub | Frontpage](https://upvote.pub/) 
+- [Fermat's Library | Sleep and Mortality: A Population-Based 22-Year Follow-Up Study annotated/explained version.](https://fermatslibrary.com/s/sleep-and-mortality-a-population-based-22-year-follow-up-study) 
