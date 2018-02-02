@@ -750,3 +750,4 @@
 - [A Plate of Jellyfish | by Lucy Jakub | NYR Daily | The New York Review of Books](http://www.nybooks.com/daily/2018/01/31/a-plate-of-jellyfish/) 
 - [Terminal Recorders: A Comprehensive Guide](https://intoli.com/blog/terminal-recorders/) 
 - ['Class-passing': how do you learn the rules of being rich? | US news | The Guardian](https://www.theguardian.com/us-news/2018/feb/01/poor-americans-poverty-rich-class) 
+- [upvote.pub | Frontpage](https://upvote.pub/) 
