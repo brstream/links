@@ -746,3 +746,4 @@
 ### February 2, 2018 
 - [Perfection Salad | Meaningness](https://meaningness.com/perfection-salad) 
 - [Cancer ‘vaccine’ eliminates tumors in mice | News Center | Stanford Medicine](https://med.stanford.edu/news/all-news/2018/01/cancer-vaccine-eliminates-tumors-in-mice.html) 
+- [Instead of Filling Cavities, Dentists May Soon Regenerate Teeth - Scientific American](https://www.scientificamerican.com/article/instead-of-filling-cavities-dentists-may-soon-regenerate-teeth/) 
