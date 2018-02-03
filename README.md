@@ -756,3 +756,4 @@
 
 ### February 3, 2018 
 - [User Guide — MoviePy 0.2.3.2 documentation](http://zulko.github.io/moviepy/index.html) 
+- [The Opium Wars still shape China’s view of the West - Memories and hallucinations](https://www.economist.com/news/christmas-specials/21732706-britain-and-china-see-each-other-through-narcotic-haze-opium-wars-still-shape) 
