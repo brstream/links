@@ -753,3 +753,6 @@
 - [upvote.pub | Frontpage](https://upvote.pub/) 
 - [Fermat's Library | Sleep and Mortality: A Population-Based 22-Year Follow-Up Study annotated/explained version.](https://fermatslibrary.com/s/sleep-and-mortality-a-population-based-22-year-follow-up-study) 
 - [Are Australians Redomesticating the Dingo? - The Atlantic](https://www.theatlantic.com/science/archive/2018/01/dingo-dog-domestication/551582/?single_page=true) 
+
+### February 3, 2018 
+- [User Guide — MoviePy 0.2.3.2 documentation](http://zulko.github.io/moviepy/index.html) 
