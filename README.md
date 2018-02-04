@@ -759,3 +759,6 @@
 - [The Opium Wars still shape China’s view of the West - Memories and hallucinations](https://www.economist.com/news/christmas-specials/21732706-britain-and-china-see-each-other-through-narcotic-haze-opium-wars-still-shape) 
 - [The Shallowness of Google Translate - The Atlantic](https://www.theatlantic.com/technology/archive/2018/01/the-shallowness-of-google-translate/551570/?single_page=true) 
 - [Sedate a Plant, and It Seems to Lose Consciousness. Is It Conscious? - The New York Times](https://www.nytimes.com/2018/02/02/science/plants-consciousness-anesthesia.html) 
+
+### February 4, 2018 
+- [A rough guide to making a manuscript - Medieval manuscripts blog](http://blogs.bl.uk/digitisedmanuscripts/2017/09/a-rough-guide-to-making-a-medieval-manuscript.html) 
