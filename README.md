@@ -764,3 +764,6 @@
 - [A rough guide to making a manuscript - Medieval manuscripts blog](http://blogs.bl.uk/digitisedmanuscripts/2017/09/a-rough-guide-to-making-a-medieval-manuscript.html) 
 - [Cognitive training helps regain a younger-working brain -- ScienceDaily](https://www.sciencedaily.com/releases/2018/01/180123112606.htm?utm_medium=email&utm_source=other&utm_campaign=opencourse.GdeNrll1EeSROyIACtiVvg.announcements~opencourse.GdeNrll1EeSROyIACtiVvg.vZLR7wKNEei_JBLBh0UxWA) 
 - [The Year Climate Change Began to Spin Out of Control - MIT Technology Review](https://www.technologyreview.com/s/609642/the-year-climate-change-began-to-spin-out-of-control/) 
+
+### February 5, 2018 
+- [Global Latinists by John Byron Kuhner | The New Criterion](https://www.newcriterion.com/issues/2018/2/global-latinists) 
