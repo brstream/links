@@ -769,3 +769,6 @@
 - [Global Latinists by John Byron Kuhner | The New Criterion](https://www.newcriterion.com/issues/2018/2/global-latinists) 
 - [Customer Satisfaction at the Push of a Button | The New Yorker](https://www.newyorker.com/magazine/2018/02/05/customer-satisfaction-at-the-push-of-a-button) 
 - [Johann Hari - Wikipedia](https://en.wikipedia.org/wiki/Johann_Hari) 
+
+### February 6, 2018 
+- [The White Darkness: A Journey Across Antarctica | The New Yorker](https://www.newyorker.com/magazine/2018/02/12/the-white-darkness) 
