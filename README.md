@@ -772,3 +772,6 @@
 
 ### February 6, 2018 
 - [The White Darkness: A Journey Across Antarctica | The New Yorker](https://www.newyorker.com/magazine/2018/02/12/the-white-darkness) 
+
+### February 7, 2018 
+- [Why Figuring Out Whether Mars Has Ever Had Life Is So Hard](http://nautil.us/issue/57/communities/life-on-mars-from-viking-to-curiosity) 
