@@ -778,3 +778,6 @@
 
 ### February 9, 2018 
 - [Carbon Doomsday - Climate change chart & carbon dioxide levels](http://www.carbondoomsday.com/) 
+
+### February 10, 2018 
+- [Meet the pirate queen making academic papers free online - The Verge](https://www.theverge.com/2018/2/8/16985666/alexandra-elbakyan-sci-hub-open-access-science-papers-lawsuit) 
