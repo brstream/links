@@ -784,3 +784,6 @@
 - [Code of Practice - Association of British Climbing Walls](https://www.abcwalls.co.uk/about/code-of-practice/) 
 - [Structures artificielles d’escalade  Normes en vigueur au 24/02/2009](http://www.ensa.sports.gouv.fr/index.php?option=com_content&view=article&id=110&Itemid=388) 
 - [Structures artificielles d’escalade - AFNOR Normalisation](https://normalisation.afnor.org/thematiques/structures-artificielles-descalade/) 
+
+### February 12, 2018 
+- [Tracing the tangled tracks of humankind's evolutionary journey | News | The Guardian](https://www.theguardian.com/news/2018/feb/12/tracing-the-tangled-tracks-of-humankinds-evolutionary-journey) 
