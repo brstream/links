@@ -787,3 +787,6 @@
 
 ### February 12, 2018 
 - [Tracing the tangled tracks of humankind's evolutionary journey | News | The Guardian](https://www.theguardian.com/news/2018/feb/12/tracing-the-tangled-tracks-of-humankinds-evolutionary-journey) 
+
+### February 15, 2018 
+- [Hacker Typer](https://hackertyper.net/) 
