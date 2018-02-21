@@ -796,3 +796,6 @@
 - [This Is Your Brain on Silence - Issue 38: Noise - Nautilus](http://nautil.us/issue/38/noise/this-is-your-brain-on-silence-rp) 
 - [answer chaining - Add a language to a polyglot - Programming Puzzles & Code Golf Stack Exchange](https://codegolf.stackexchange.com/questions/102370/add-a-language-to-a-polyglot/155495#155495) 
 - [asciinema - Record and share your terminal sessions, the right way](https://asciinema.org/) 
+
+### February 21, 2018 
+- [The Flower Ornament Scripture - Tricycle: The Buddhist Review](https://tricycle.org/magazine/flower-ornament-scripture/) 
