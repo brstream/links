@@ -803,3 +803,4 @@
 ### February 22, 2018 
 - [Online Buddhist Sutras, Scriptures, Texts and Related Media, in Chinese, Sanskrit and English, for Free](http://www.fodian.net/world/) 
 - [Sanskrit Manuscripts](http://cudl.lib.cam.ac.uk/collections/sanskrit/7) 
+- [The Cambridge Introduction to Sanskrit A.M. Ruppel](http://cambridge-sanskrit.org/) 
