@@ -808,3 +808,4 @@
 
 ### February 23, 2018 
 - [The Case Against Google - The New York Times](https://www.nytimes.com/2018/02/20/magazine/the-case-against-google.html?&moduleDetail=section-news-3&action=click&contentCollection=Magazine&region=Footer&module=MoreInSection&version=WhatsNext&contentID=WhatsNext&pgtype=article) 
+- [The Hacker Classics](http://jsomers.net/hn/) 
