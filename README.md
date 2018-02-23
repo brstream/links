@@ -812,3 +812,4 @@
 - [minimaxir/hacker-news-undocumented: This list details some of the hidden norms about Hacker News not otherwise covered in the Guidelines and the FAQ.](https://github.com/minimaxir/hacker-news-undocumented) 
 - [Crispr Gene Editing Will Transform How We Eradicate Invasive Species | WIRED](https://www.wired.com/story/crispr-eradicate-invasive-species/) 
 - [The Sanskrit Heritage Site](http://sanskrit.inria.fr/) 
+- [Monier Williams Online Dictionary](http://www.sanskrit-lexicon.uni-koeln.de/monier/) 
