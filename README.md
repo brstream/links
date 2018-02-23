@@ -813,3 +813,4 @@
 - [Crispr Gene Editing Will Transform How We Eradicate Invasive Species | WIRED](https://www.wired.com/story/crispr-eradicate-invasive-species/) 
 - [The Sanskrit Heritage Site](http://sanskrit.inria.fr/) 
 - [Monier Williams Online Dictionary](http://www.sanskrit-lexicon.uni-koeln.de/monier/) 
+- [A practical Sanskrit dictionary with transliteration, accentuation, and etymological analysis throughout](http://dsal.uchicago.edu/dictionaries/macdonell/index.html) 
