@@ -805,3 +805,6 @@
 - [Sanskrit Manuscripts](http://cudl.lib.cam.ac.uk/collections/sanskrit/7) 
 - [The Cambridge Introduction to Sanskrit A.M. Ruppel](http://cambridge-sanskrit.org/) 
 - [Clay Sanskrit Library](http://www.claysanskritlibrary.org/index.php) 
+
+### February 23, 2018 
+- [The Case Against Google - The New York Times](https://www.nytimes.com/2018/02/20/magazine/the-case-against-google.html?&moduleDetail=section-news-3&action=click&contentCollection=Magazine&region=Footer&module=MoreInSection&version=WhatsNext&contentID=WhatsNext&pgtype=article) 
