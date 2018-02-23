@@ -810,3 +810,4 @@
 - [The Case Against Google - The New York Times](https://www.nytimes.com/2018/02/20/magazine/the-case-against-google.html?&moduleDetail=section-news-3&action=click&contentCollection=Magazine&region=Footer&module=MoreInSection&version=WhatsNext&contentID=WhatsNext&pgtype=article) 
 - [The Hacker Classics](http://jsomers.net/hn/) 
 - [minimaxir/hacker-news-undocumented: This list details some of the hidden norms about Hacker News not otherwise covered in the Guidelines and the FAQ.](https://github.com/minimaxir/hacker-news-undocumented) 
+- [Crispr Gene Editing Will Transform How We Eradicate Invasive Species | WIRED](https://www.wired.com/story/crispr-eradicate-invasive-species/) 
