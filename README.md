@@ -815,3 +815,6 @@
 - [Monier Williams Online Dictionary](http://www.sanskrit-lexicon.uni-koeln.de/monier/) 
 - [A practical Sanskrit dictionary with transliteration, accentuation, and etymological analysis throughout](http://dsal.uchicago.edu/dictionaries/macdonell/index.html) 
 - [Digital Library & Museum of Buddhist Studies ::: Keyword Database with 5 Languages](http://buddhism.lib.ntu.edu.tw/DLMBS/en/search/search_key.jsp?keys=10#10) 
+
+### February 24, 2018 
+- [NTI Buddhist Text Reader](http://ntireader.org/sanskrit_in_buddhism.html) 
