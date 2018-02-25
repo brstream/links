@@ -818,3 +818,6 @@
 
 ### February 24, 2018 
 - [NTI Buddhist Text Reader](http://ntireader.org/sanskrit_in_buddhism.html) 
+
+### February 25, 2018 
+- [The Philosophy of Computer Science (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/computer-science/) 
