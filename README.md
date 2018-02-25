@@ -823,3 +823,4 @@
 - [The Philosophy of Computer Science (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/computer-science/) 
 - [How to Get Wyoming Wind to California, and Cut 80% of U.S. Carbon Emissions - MIT Technology Review](https://www.technologyreview.com/s/609766/how-to-get-wyoming-wind-to-california-and-cut-80-of-us-carbon-emissions/?utm_source=twitter.com&utm_medium=social&utm_content=2018-02-23&utm_campaign=Technology+Review) 
 - [Adopting a more active lifestyle today could have benefits for your personality decades from now – Research Digest](https://digest.bps.org.uk/2018/02/23/adopting-a-more-active-lifestyle-today-could-have-benefits-for-your-personality-decades-from-now/) 
+- [BabelNet | The largest multilingual encyclopedic dictionary and semantic network](http://live.babelnet.org/) 
