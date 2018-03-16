@@ -840,3 +840,4 @@
 
 ### March 16, 2018 
 - [Five Key Git Concepts Explained the Hard Way – zwischenzugs](https://zwischenzugs.com/2018/03/14/five-key-git-concepts-explained-the-hard-way/) 
+- [Interactive map of Linux kernel](http://www.makelinux.net/kernel_map/) 
