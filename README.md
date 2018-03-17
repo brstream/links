@@ -842,3 +842,6 @@
 - [Five Key Git Concepts Explained the Hard Way – zwischenzugs](https://zwischenzugs.com/2018/03/14/five-key-git-concepts-explained-the-hard-way/) 
 - [Interactive map of Linux kernel](http://www.makelinux.net/kernel_map/) 
 - [Geoengineer polar glaciers to slow sea-level rise](https://www.nature.com/articles/d41586-018-03036-4) 
+
+### March 17, 2018 
+- [German Military Records WWII - Addresses for Information and Research](https://www.feldgrau.com/WW2-German-Military-Research-Addresses) 
