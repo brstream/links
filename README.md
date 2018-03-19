@@ -845,3 +845,6 @@
 
 ### March 17, 2018 
 - [German Military Records WWII - Addresses for Information and Research](https://www.feldgrau.com/WW2-German-Military-Research-Addresses) 
+
+### March 19, 2018 
+- [Extensive Data Shows Punishing Reach of Racism for Black Boys - The New York Times](https://www.nytimes.com/interactive/2018/03/19/upshot/race-class-white-and-black-men.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=first-column-region&region=top-news&WT.nav=top-news) 
