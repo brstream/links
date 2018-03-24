@@ -859,3 +859,4 @@
 ### March 24, 2018 
 - [Cforall](https://plg.uwaterloo.ca/~cforall/) 
 - [GDPR Requirements in Plain English](https://blog.varonis.com/gdpr-requirements-list-in-plain-english/) 
+- [The Best Alternative For Every Facebook Feature | WIRED](https://www.wired.com/story/facebook-alternatives) 
