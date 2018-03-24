@@ -861,3 +861,4 @@
 - [GDPR Requirements in Plain English](https://blog.varonis.com/gdpr-requirements-list-in-plain-english/) 
 - [The Best Alternative For Every Facebook Feature | WIRED](https://www.wired.com/story/facebook-alternatives) 
 - [Home - NeoMutt](https://www.neomutt.org/) 
+- [Lucky iron fish - Wikipedia](https://en.wikipedia.org/wiki/Lucky_iron_fish) 
