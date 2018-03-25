@@ -862,3 +862,6 @@
 - [The Best Alternative For Every Facebook Feature | WIRED](https://www.wired.com/story/facebook-alternatives) 
 - [Home - NeoMutt](https://www.neomutt.org/) 
 - [Lucky iron fish - Wikipedia](https://en.wikipedia.org/wiki/Lucky_iron_fish) 
+
+### March 25, 2018 
+- [Fred's ImageMagick Scripts](http://www.fmwconcepts.com/imagemagick/index.php) 
