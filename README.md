@@ -868,3 +868,4 @@
 
 ### March 27, 2018 
 - [Textile Facebook Parser](https://fb.textile.photos/) 
+- [Reasons not to use (i.e., be used by) Facebook](https://stallman.org/facebook.html) 
