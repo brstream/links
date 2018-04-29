@@ -871,3 +871,6 @@
 - [Reasons not to use (i.e., be used by) Facebook](https://stallman.org/facebook.html) 
 - [Achtung! Decentralize, decentralize, decentralize! | Drew DeVault’s Blog](https://drewdevault.com/2018/03/24/Decentralize-decentralize-decentralize.html) 
 - [11,000 years ago, our ancestors survived abrupt climate change - CNN](https://edition.cnn.com/2018/03/26/health/climate-change-hunter-gatherers/index.html) 
+
+### April 29, 2018 
+- [Sail Away | Stories from the International Appalachian Trail](https://iatsailaway.wordpress.com/) 
