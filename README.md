@@ -874,3 +874,6 @@
 
 ### April 29, 2018 
 - [Sail Away | Stories from the International Appalachian Trail](https://iatsailaway.wordpress.com/) 
+
+### May 12, 2018 
+- [Roll over Einstein: meet Weinstein | Alok Jha | Science | The Guardian](https://www.theguardian.com/science/blog/2013/may/23/roll-over-einstein-meet-weinstein) 
