@@ -880,3 +880,6 @@
 
 ### May 13, 2018 
 - [Thousand years of Tibetan masterpieces revealed for first time | World news | The Guardian](https://www.theguardian.com/world/2018/may/06/photographs-ancient-tibetan-murals-revealed) 
+
+### May 20, 2018 
+- [Index of /scimag/repository_torrent](http://gen.lib.rus.ec/scimag/repository_torrent/) 
