@@ -1,5 +1,8 @@
 # Links to Remember
 
+
+### June 9, 2018 
+- [Mr. Rogers's Simple Set of Rules for Talking to Kids - The Atlantic](https://www.theatlantic.com/family/archive/2018/06/mr-rogers-neighborhood-talking-to-kids/562352/?single_page=true) 
 ### September 26, 2016
 - [Taishō Tripiṭaka: English Translations](http://lapislazulitexts.com/tripitaka) 
 - [BDK English Tripitaka Search](http://21dzk.l.u-tokyo.ac.jp/BDK/bdk_search.php) 
