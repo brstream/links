@@ -1,6 +1,9 @@
 # Links to Remember
 
 
+
+### June 13, 2018 
+- ["Mind-boggling" Stanford research turns human blood cells into functional neurons](https://newatlas.com/blood-cells-transformed-neurons-stanford/54948/) 
 ### June 9, 2018 
 - [Mr. Rogers's Simple Set of Rules for Talking to Kids - The Atlantic](https://www.theatlantic.com/family/archive/2018/06/mr-rogers-neighborhood-talking-to-kids/562352/?single_page=true) 
 - [Paul Ford: What Is Code? | Bloomberg](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) 
