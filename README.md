@@ -2,6 +2,9 @@
 
 
 
+
+### June 16, 2018 
+- [Blot](https://blot.im/) 
 ### June 13, 2018 
 - ["Mind-boggling" Stanford research turns human blood cells into functional neurons](https://newatlas.com/blood-cells-transformed-neurons-stanford/54948/) 
 ### June 9, 2018 
