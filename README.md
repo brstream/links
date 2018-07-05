@@ -7,6 +7,7 @@
 ### July 5, 2018 
 - [The Magnificent, Mysterious, Wild, Connected and Interconnected Brain - Mindful](https://www.mindful.org/the-magnificent-mysterious-wild-connected-and-interconnected-brain/) 
 - [The Electric Flight of Spiders | Hacker News](https://news.ycombinator.com/item?id=17465068) 
+- [FWD:Everyone](https://fwdeveryone.com/) 
 ### June 16, 2018 
 - [Blot](https://blot.im/) 
 ### June 13, 2018 
