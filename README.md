@@ -4,6 +4,9 @@
 
 
 
+
+### July 7, 2018 
+- [Apple's AirPods and Live Listen are a revolution for the hearing impaired — Quartz](https://qz.com/1323215/apples-airpods-and-live-listen-are-a-revolution-for-the-hearing-impaired/) 
 ### July 5, 2018 
 - [The Magnificent, Mysterious, Wild, Connected and Interconnected Brain - Mindful](https://www.mindful.org/the-magnificent-mysterious-wild-connected-and-interconnected-brain/) 
 - [The Electric Flight of Spiders | Hacker News](https://news.ycombinator.com/item?id=17465068) 
