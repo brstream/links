@@ -5,6 +5,9 @@
 
 
 
+
+### July 14, 2018 
+- [Legal Systems Very Different From Ours](http://www.daviddfriedman.com/Academic/Course_Pages/legal_systems_very_different_12/LegalSystemsDraft.html) 
 ### July 7, 2018 
 - [Apple's AirPods and Live Listen are a revolution for the hearing impaired — Quartz](https://qz.com/1323215/apples-airpods-and-live-listen-are-a-revolution-for-the-hearing-impaired/) 
 ### July 5, 2018 
