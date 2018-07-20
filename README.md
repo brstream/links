@@ -7,6 +7,9 @@
 
 
 
+
+### July 20, 2018 
+- [Fintan O’Toole: Trial runs for fascism are in full flow](https://www.irishtimes.com/opinion/fintan-o-toole-trial-runs-for-fascism-are-in-full-flow-1.3543375#.W1Ge-yuab-I.twitter) 
 ### July 19, 2018 
 - [Work less, get more: New Zealand firm's four-day week an 'unmitigated success' | World news | The Guardian](https://www.theguardian.com/world/2018/jul/19/work-less-get-more-new-zealand-firms-four-day-week-an-unmitigated-success) 
 - [Drugs alone won't fix our epidemic of depression | James S Gordon | Society | The Guardian](https://www.theguardian.com/society/commentisfree/2018/jul/19/drugs-alone-wont-fix-our-epidemic-of-depression) 
