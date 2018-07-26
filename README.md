@@ -8,6 +8,9 @@
 
 
 
+
+### July 26, 2018 
+- [Steve Blank Secret History](https://steveblank.com/secret-history/) 
 ### July 20, 2018 
 - [Fintan O’Toole: Trial runs for fascism are in full flow](https://www.irishtimes.com/opinion/fintan-o-toole-trial-runs-for-fascism-are-in-full-flow-1.3543375#.W1Ge-yuab-I.twitter) 
 ### July 19, 2018 
