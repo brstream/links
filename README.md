@@ -9,6 +9,9 @@
 
 
 
+
+### July 27, 2018 
+- [The Best Textbooks on Every Subject](https://www.lesswrong.com/posts/xg3hXCYQPJkwHyik2/the-best-textbooks-on-every-subject) 
 ### July 26, 2018 
 - [Steve Blank Secret History](https://steveblank.com/secret-history/) 
 ### July 20, 2018 
