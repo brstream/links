@@ -11,6 +11,9 @@
 
 
 
+
+### August 18, 2018 
+- [Pre-sleep treatment with galantamine stimulates lucid dreaming: A double-blind, placebo-controlled, crossover study](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0201246) 
 ### July 28, 2018 
 - [The biomass distribution on Earth | PNAS](http://www.pnas.org/content/115/25/6506) 
 ### July 27, 2018 
