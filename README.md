@@ -1,15 +1,7 @@
 # Links to Remember
 
-
-
-
-
-
-
-
-
-
 ### August 22, 2018
+- [POC Dharma](https://www.lionsroar.com/training-the-buddhist-leaders-of-tomorrow/amp/?__twitter_impression=true)
 - [Noobs-term](https://noobs-term.com/#/)
 ### August 18, 2018 
 - [Pre-sleep treatment with galantamine stimulates lucid dreaming: A double-blind, placebo-controlled, crossover study](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0201246) 
