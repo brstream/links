@@ -1,6 +1,7 @@
 # Links to Remember
 
 ### August 23, 2018
+- [Mum’s a Neanderthal, Dad’s a Denisovan: First discovery of an ancient-human hybrid](https://www.nature.com/articles/d41586-018-06004-0)
 - [The Exciting Universe of Music Theory](https://ianring.com/musictheory/scales/)
 ### August 22, 2018
 - [POC Dharma](https://www.lionsroar.com/training-the-buddhist-leaders-of-tomorrow/amp/?__twitter_impression=true)
