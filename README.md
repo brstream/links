@@ -1,5 +1,7 @@
 # Links to Remember
 
+### August 23, 2018
+- [The Exciting Universe of Music Theory](https://ianring.com/musictheory/scales/)
 ### August 22, 2018
 - [POC Dharma](https://www.lionsroar.com/training-the-buddhist-leaders-of-tomorrow/amp/?__twitter_impression=true)
 - [Noobs-term](https://noobs-term.com/#/)
