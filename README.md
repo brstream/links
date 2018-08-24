@@ -1,5 +1,7 @@
 # Links to Remember
 
+### August 24, 2018
+- [Rich Kids Study English](https://www.theatlantic.com/business/archive/2015/07/college-major-rich-families-liberal-arts/397439/)
 ### August 23, 2018
 - [Mum’s a Neanderthal, Dad’s a Denisovan: First discovery of an ancient-human hybrid](https://www.nature.com/articles/d41586-018-06004-0)
 - [The Exciting Universe of Music Theory](https://ianring.com/musictheory/scales/)
