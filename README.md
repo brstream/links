@@ -1,5 +1,7 @@
 # Links to Remember
 
+### August 29, 2018
+- [Maps of subjective feelings](http://www.pnas.org/content/early/2018/08/27/1807390115)
 ### August 24, 2018
 - [Rich Kids Study English](https://www.theatlantic.com/business/archive/2015/07/college-major-rich-families-liberal-arts/397439/)
 ### August 23, 2018
