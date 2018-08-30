@@ -1,6 +1,7 @@
 # Links to Remember
 
 ### August 30, 2018
+- [Guardian of a Dying Flame: Śāriputra (c. 1335–1426) and the End of Late Indian Buddhism. Arthur McKeown](http://www.hup.harvard.edu/catalog.php?isbn=9780674984356)
 - [Lokesh Chandra (1984). "The Origin of Avalokitesvara" (PDF). Indologica Taurinenaia.](https://web.archive.org/web/20140606205922/http://www.indologica.com/volumes/vol13/vol13_art13_CHANDRA.pdf)
 - [Don’t Be Afraid of Pain: A neuroscience education program for those with back or neck pain led to better physical and mental health.](https://www.nytimes.com/2018/07/11/well/dont-be-afraid-of-pain.html)
 ### August 29, 2018
