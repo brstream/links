@@ -1,6 +1,7 @@
 # Links to Remember
 
 ### August 30, 2018
+- [Lokesh Chandra (1984). "The Origin of Avalokitesvara" (PDF). Indologica Taurinenaia.](https://web.archive.org/web/20140606205922/http://www.indologica.com/volumes/vol13/vol13_art13_CHANDRA.pdf)
 - [Don’t Be Afraid of Pain: A neuroscience education program for those with back or neck pain led to better physical and mental health.](https://www.nytimes.com/2018/07/11/well/dont-be-afraid-of-pain.html)
 ### August 29, 2018
 - [Maps of subjective feelings](http://www.pnas.org/content/early/2018/08/27/1807390115)
