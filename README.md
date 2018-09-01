@@ -1,5 +1,6 @@
 # Links to Remember
 
+- [Your Lying Mind: The Cognitive Biases Tricking Your Brain](
 ### August 31, 2018
 - [My wonderful world of macOS: List of applications and tools that make my macOS experience even more amazing](https://github.com/nikitavoloboev/my-mac-os/blob/master/README.md)
 ### August 30, 2018
