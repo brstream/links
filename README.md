@@ -1,7 +1,8 @@
 # Links to Remember
 
 ### September 1, 2018
-- [Eating in 10-hour window can override disease-causing genetic defects, nurture health: Salk scientists discover that periods of fasting can protect against obesity and diabetes](
+- [What Do Happy Teens Do? Hint: It doesn't involve their phones.](
+- [Eating in 10-hour window can override disease-causing genetic defects, nurture health: Salk scientists discover that periods of fasting can protect against obesity and diabetes](https://www.salk.edu/news-release/eating-in-10-hour-window-can-override-disease-causing-genetic-defects-nurture-health/)
 - [Your Lying Mind: The Cognitive Biases Tricking Your Brain](https://www.theatlantic.com/magazine/archive/2018/09/cognitive-bias/565775/?single_page=true)
 ### August 31, 2018
 - [My wonderful world of macOS: List of applications and tools that make my macOS experience even more amazing](https://github.com/nikitavoloboev/my-mac-os/blob/master/README.md)
