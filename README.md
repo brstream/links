@@ -1,6 +1,7 @@
 # Links to Remember
 
-- ["Blue Planet II" Will Blow Your Mind and Break Your Heart, by LARA ZARUM, JANUARY 22, 2018](
+### September 2, 2018
+- ["Blue Planet II" Will Blow Your Mind and Break Your Heart, by LARA ZARUM, JANUARY 22, 2018](https://www.villagevoice.com/2018/01/22/blue-planet-ii-will-blow-your-mind-and-break-your-heart/)
 ### September 1, 2018
 - [Examined Life: Power, patriarchy, and the imperfect guru: Buddhist teacher Noah Levine is dismissed from Against the Stream because of sexual misconduct. Now the organization is folding. Why does this song sound so familiar?](https://48hills.org/2018/08/examined-life-american-buddhism-sex-and-power/amp/?__twitter_impression=true)
 - [What Do Happy Teens Do? Hint: It doesn't involve their phones.](https://www.psychologytoday.com/us/blog/our-changing-culture/201808/what-do-happy-teens-do)
