@@ -1,6 +1,7 @@
 # Links to Remember
 
 ### September 5, 2018
+- [Why Read the Classics? Italo Calvino](https://www.nybooks.com/articles/1986/10/09/why-read-the-classics/)
 - [The Complete Guide to the Science of Meditation](https://endpoints.elysiumhealth.com/the-science-of-meditation-1442df86a5fb)
 ### September 2, 2018
 - ["Blue Planet II" Will Blow Your Mind and Break Your Heart, by LARA ZARUM, JANUARY 22, 2018](https://www.villagevoice.com/2018/01/22/blue-planet-ii-will-blow-your-mind-and-break-your-heart/)
