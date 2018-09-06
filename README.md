@@ -1,5 +1,7 @@
 # Links to Remember
 
+### September 6, 2018
+- [Radical open-access plan could spell end to journal subscriptions](https://www.nature.com/articles/d41586-018-06178-7)
 ### September 5, 2018
 - [Why Read the Classics? Italo Calvino](https://www.nybooks.com/articles/1986/10/09/why-read-the-classics/)
 - [The Complete Guide to the Science of Meditation](https://endpoints.elysiumhealth.com/the-science-of-meditation-1442df86a5fb)
