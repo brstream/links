@@ -1,6 +1,7 @@
 # Links to Remember
 
 ### September 6, 2018
+- [Git Annex vs. Git LFS - DECEMBER 8, 2015](https://workingconcept.com/blog/git-annex-vs-git-lfs)
 - [Radical open-access plan could spell end to journal subscriptions](https://www.nature.com/articles/d41586-018-06178-7)
 ### September 5, 2018
 - [Why Read the Classics? Italo Calvino](https://www.nybooks.com/articles/1986/10/09/why-read-the-classics/)
