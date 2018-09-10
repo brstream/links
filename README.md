@@ -1,5 +1,7 @@
 # Links to Remember
 
+### September 10, 2018
+- [Hacklily is an online sheet-music editor and publishing tool.](https://www.hacklily.org)
 ### September 6, 2018
 - [Radical open-access plan could spell end to journal subscriptions](https://www.nature.com/articles/d41586-018-06178-7)
 ### September 5, 2018
