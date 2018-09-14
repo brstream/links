@@ -2,7 +2,10 @@
 
 ### September 10, 2018
 - [Hacklily is an online sheet-music editor and publishing tool.](https://www.hacklily.org)
+### September 7, 2018
+- ['Mindful people' feel less pain; MRI imaging pinpoints supporting brain activity. September 7, 2018, Wake Forest University Baptist Medical Center](https://medicalxpress.com/news/2018-09-mindful-people-pain-mri-imaging.html)
 ### September 6, 2018
+- [Git Annex vs. Git LFS - DECEMBER 8, 2015](https://workingconcept.com/blog/git-annex-vs-git-lfs)
 - [Radical open-access plan could spell end to journal subscriptions](https://www.nature.com/articles/d41586-018-06178-7)
 ### September 5, 2018
 - [Why Read the Classics? Italo Calvino](https://www.nybooks.com/articles/1986/10/09/why-read-the-classics/)
