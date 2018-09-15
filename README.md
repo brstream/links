@@ -1,5 +1,7 @@
 # Links to Remember
 
+### September 15, 2018
+- [Frugalité et marketing: Le système Pierre Rabhi](https://www.monde-diplomatique.fr/2018/08/MALET/58981)
 ### September 7, 2018
 - ['Mindful people' feel less pain; MRI imaging pinpoints supporting brain activity. September 7, 2018, Wake Forest University Baptist Medical Center](https://medicalxpress.com/news/2018-09-mindful-people-pain-mri-imaging.html)
 ### September 6, 2018
