@@ -1,5 +1,7 @@
 # Links to Remember
 
+### September 21, 2018
+- [Simple Words](https://twitter.com/neurowendy/status/1042885085962424325?s=12)
 ### September 10, 2018
 - [Hacklily is an online sheet-music editor and publishing tool.](https://www.hacklily.org)
 ### September 7, 2018
