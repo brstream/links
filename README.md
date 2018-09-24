@@ -1,5 +1,7 @@
 # Links to Remember
 
+### September 23, 2018
+- [Association between alcohol and cardiovascular disease: Mendelian randomisation analysis based on individual participant data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4091648/)
 ### September 15, 2018
 - [Frugalité et marketing: Le système Pierre Rabhi](https://www.monde-diplomatique.fr/2018/08/MALET/58981)
 ### September 10, 2018
