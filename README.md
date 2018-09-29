@@ -1,5 +1,7 @@
 # Links to Remember
 
+### September 29, 2018
+- [Welcome to sr.ht! This is the open source software suite for managing your software development projects that you've been waiting for. Managed instances of our services are provided here for your convenience.](https://meta.sr.ht)
 ### September 23, 2018
 - [The Apology Critics Who Want to Teach You How to Say You’re Sorry](https://www.thecut.com/2017/06/these-apology-critics-want-to-teach-you-how-to-say-sorry.html)
 - [Association between alcohol and cardiovascular disease: Mendelian randomisation analysis based on individual participant data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4091648/)
