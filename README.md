@@ -2,6 +2,13 @@
 
 ### October 3, 2018
 - [The 2018 Nobel Prize in chemistry was awarded Wednesday to Frances H. Arnold, George P. Smith and Gregory P. Winter for their work that harnessed evolutionary principles to create new proteins.](https://www.washingtonpost.com/gdpr-consent/?destination=%2fscience%2f2018%2f10%2f03%2fnobel-prize-chemistry-goes-three-scientists-who-harnessed-power-evolution%2f%3f)
+### September 29, 2018
+- [Welcome to sr.ht! This is the open source software suite for managing your software development projects that you've been waiting for. Managed instances of our services are provided here for your convenience.](https://meta.sr.ht)
+### September 23, 2018
+- [The Apology Critics Who Want to Teach You How to Say You’re Sorry](https://www.thecut.com/2017/06/these-apology-critics-want-to-teach-you-how-to-say-sorry.html)
+- [Association between alcohol and cardiovascular disease: Mendelian randomisation analysis based on individual participant data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4091648/)
+### September 15, 2018
+- [Frugalité et marketing: Le système Pierre Rabhi](https://www.monde-diplomatique.fr/2018/08/MALET/58981)
 ### September 21, 2018
 - [Simple Words](https://twitter.com/neurowendy/status/1042885085962424325?s=12)
 ### September 10, 2018
