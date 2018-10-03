@@ -1,5 +1,7 @@
 # Links to Remember
 
+### October 3, 2018
+- [The 2018 Nobel Prize in chemistry was awarded Wednesday to Frances H. Arnold, George P. Smith and Gregory P. Winter for their work that harnessed evolutionary principles to create new proteins.](https://www.washingtonpost.com/gdpr-consent/?destination=%2fscience%2f2018%2f10%2f03%2fnobel-prize-chemistry-goes-three-scientists-who-harnessed-power-evolution%2f%3f)
 ### September 21, 2018
 - [Simple Words](https://twitter.com/neurowendy/status/1042885085962424325?s=12)
 ### September 10, 2018
